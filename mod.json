@@ -1,0 +1,23 @@
+{
+  "name": "adventurer-guide",
+  "version": "0.5.0",
+  "author": "rhwski",
+  "description": "An Adventurer Guide in Prontera (136,171) that reads your class and level: where to level with hunting tips for your class at every spot, what to buy and which gear and cards to farm (with prices, drop rates and maps), stat and skill builds with several playstyles, MVPs that could be worth a try with the boss skills to watch for, and this server's EXP and drop rates. Separate pre-renewal and renewal data.",
+  "requires": {
+    "app": ">=1.4.3",
+    "era": "any"
+  },
+  "settings": [
+    {
+      "key": "sprite_id",
+      "type": "number",
+      "default": 0,
+      "min": 0,
+      "max": 99999,
+      "label": "NPC look: custom view id (0 = default old crusader)",
+      "description": "Advanced. A numeric NPC view id. The client must have that sprite."
+    }
+  ],
+  "renewalFolder": "renewal",
+  "prerenewalFolder": "pre-renewal"
+}

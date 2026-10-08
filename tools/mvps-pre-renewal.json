@@ -1,0 +1,2296 @@
+[
+ {
+  "name": "Golden Thief Bug",
+  "lv": 64,
+  "hp": 126000,
+  "def": 60,
+  "mdef": 45,
+  "atk": 870,
+  "ele": "Fire",
+  "eleLv": 2,
+  "race": "Insect",
+  "size": "Large",
+  "maps": [
+   "prt_sewb4"
+  ],
+  "card": "Golden Thief Bug Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Shield Reflect",
+    "t": "sends melee damage back at you. Use ranged attacks."
+   },
+   {
+    "n": "Assumptio",
+    "t": "halves the damage it takes for a while."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Guided Attack",
+    "t": "never misses, so Flee will not help."
+   }
+  ]
+ },
+ {
+  "name": "Eddga",
+  "lv": 65,
+  "hp": 152000,
+  "def": 15,
+  "mdef": 15,
+  "atk": 1215,
+  "ele": "Fire",
+  "eleLv": 1,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "gld_dun01",
+   "pay_fild11"
+  ],
+  "card": "Eddga Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "bleeding",
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Status attacks",
+    "t": "bleeding. Helpful: Ungoliant Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   },
+   {
+    "n": "Heal",
+    "t": "heals itself. Burst it."
+   }
+  ]
+ },
+ {
+  "name": "Moonlight Flower",
+  "lv": 67,
+  "hp": 120000,
+  "def": 10,
+  "mdef": 55,
+  "atk": 1200,
+  "ele": "Fire",
+  "eleLv": 3,
+  "race": "Demon",
+  "size": "Medium",
+  "maps": [
+   "pay_dun04"
+  ],
+  "card": "Moonlight Flower Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "silence",
+   "powers up",
+   "Cold Bolt",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Dispell",
+    "t": "strips your buffs. Buff again."
+   },
+   {
+    "n": "Hammer Fall",
+    "t": "stuns everyone around it."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Phreeoni",
+  "lv": 69,
+  "hp": 188000,
+  "def": 10,
+  "mdef": 20,
+  "atk": 880,
+  "ele": "Neutral",
+  "eleLv": 3,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "moc_fild17"
+  ],
+  "card": "Phreeoni Card",
+  "weak": [],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "stone",
+   "summons minions",
+   "heals itself",
+   "Heavens Drive"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Heaven's Drive",
+    "t": "earth AoE."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "petrify. Helpful: Seeker Card / Argos Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Guided Attack",
+    "t": "never misses, so Flee will not help."
+   }
+  ]
+ },
+ {
+  "name": "Drake",
+  "lv": 70,
+  "hp": 326666,
+  "def": 20,
+  "mdef": 35,
+  "atk": 1800,
+  "ele": "Undead",
+  "eleLv": 1,
+  "race": "Undead",
+  "size": "Medium",
+  "maps": [
+   "treasure02"
+  ],
+  "card": "Drake Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   },
+   {
+    "ele": "Fire",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Decrease AGI",
+    "t": "slows you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Guided Attack",
+    "t": "never misses, so Flee will not help."
+   }
+  ]
+ },
+ {
+  "name": "Tao Gunka",
+  "lv": 70,
+  "hp": 193000,
+  "def": 20,
+  "mdef": 20,
+  "atk": 1450,
+  "ele": "Neutral",
+  "eleLv": 3,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "beach_dun"
+  ],
+  "card": "Tao Gunka Card",
+  "weak": [],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "stun"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "SP drain",
+    "t": "drains your SP. Carry Blue Potions."
+   }
+  ]
+ },
+ {
+  "name": "Samurai Specter",
+  "lv": 71,
+  "hp": 218652,
+  "def": 10,
+  "mdef": 51,
+  "atk": 2219,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "ama_dun03"
+  ],
+  "card": "Samurai Spector Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Brandish Spear",
+    "t": "heavy line AoE in front of it."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Doppelganger",
+  "lv": 72,
+  "hp": 249000,
+  "def": 60,
+  "mdef": 35,
+  "atk": 1340,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Demon",
+  "size": "Medium",
+  "maps": [
+   "gef_dun02",
+   "gld_dun02"
+  ],
+  "card": "Doppelganger Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "powers up",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Spiral Pierce",
+    "t": "heavy single hit."
+   },
+   {
+    "n": "Hammer Fall",
+    "t": "stuns everyone around it."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Evil Snake Lord",
+  "lv": 73,
+  "hp": 254993,
+  "def": 25,
+  "mdef": 55,
+  "atk": 2433,
+  "ele": "Ghost",
+  "eleLv": 3,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "gon_dun03"
+  ],
+  "card": "Evil Snake Lord Card",
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "silence",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Dragon Fear",
+    "t": "AoE that can cause several statuses."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence, freeze. Helpful: Marduk Card, Marc Card."
+   }
+  ]
+ },
+ {
+  "name": "Mistress",
+  "lv": 74,
+  "hp": 212000,
+  "def": 40,
+  "mdef": 60,
+  "atk": 880,
+  "ele": "Wind",
+  "eleLv": 4,
+  "race": "Insect",
+  "size": "Small",
+  "maps": [
+   "mjolnir_04"
+  ],
+  "card": "Mistress Card",
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "calls minions",
+   "silence",
+   "summons minions",
+   "Jupitel Thunder"
+  ],
+  "watch": [
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   },
+   {
+    "n": "Jupitel Thunder",
+    "t": "wind hit that knocks you back."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Guided Attack",
+    "t": "never misses, so Flee will not help."
+   }
+  ]
+ },
+ {
+  "name": "Orc Lord",
+  "lv": 74,
+  "hp": 783000,
+  "def": 40,
+  "mdef": 5,
+  "atk": 3700,
+  "ele": "Earth",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "gef_fild10"
+  ],
+  "card": "Orc Lord Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "earthquake",
+   "powers up",
+   "Cold Bolt",
+   "calls minions",
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   },
+   {
+    "n": "Heal",
+    "t": "heals itself. Burst it."
+   }
+  ]
+ },
+ {
+  "name": "Orc Hero",
+  "lv": 77,
+  "hp": 585700,
+  "def": 40,
+  "mdef": 45,
+  "atk": 2257,
+  "ele": "Earth",
+  "eleLv": 2,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "gef_fild02",
+   "gef_fild14"
+  ],
+  "card": "Orc Hero Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "Thunderstorm",
+   "calls minions",
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Thunderstorm",
+    "t": "wind AoE."
+   },
+   {
+    "n": "Spiral Pierce",
+    "t": "heavy single hit."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Decrease AGI",
+    "t": "slows you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Stormy Knight",
+  "lv": 77,
+  "hp": 240000,
+  "def": 35,
+  "mdef": 60,
+  "atk": 1425,
+  "ele": "Wind",
+  "eleLv": 4,
+  "race": "Formless",
+  "size": "Large",
+  "maps": [
+   "xmas_dun02"
+  ],
+  "card": "Stormy Knight Card",
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "freeze",
+   "powers up",
+   "calls minions",
+   "summons minions",
+   "Storm Gust",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Storm Gust",
+    "t": "ice AoE that can freeze (Marc Card)."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "freeze, hallucination. Helpful: Marc Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   },
+   {
+    "n": "Heal",
+    "t": "heals itself. Burst it."
+   }
+  ]
+ },
+ {
+  "name": "Osiris",
+  "lv": 78,
+  "hp": 415400,
+  "def": 10,
+  "mdef": 25,
+  "atk": 780,
+  "ele": "Undead",
+  "eleLv": 4,
+  "race": "Undead",
+  "size": "Medium",
+  "maps": [
+   "moc_pryd04"
+  ],
+  "card": "Osiris Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   },
+   {
+    "ele": "Holy",
+    "mult": 200
+   },
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "curse",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "petrify, curse. Helpful: Seeker Card / Argos Card, Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Quagmire",
+    "t": "slows you and lowers AGI / DEX."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   }
+  ]
+ },
+ {
+  "name": "Egnigem Cenia",
+  "lv": 79,
+  "hp": 214200,
+  "def": 48,
+  "mdef": 25,
+  "atk": 3890,
+  "ele": "Fire",
+  "eleLv": 2,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun01",
+   "lhz_dun02"
+  ],
+  "card": "General Egnigem Cenia Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "calls minions"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Spiral Pierce",
+    "t": "heavy single hit."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   }
+  ]
+ },
+ {
+  "name": "Dark Lord",
+  "lv": 80,
+  "hp": 720000,
+  "def": 30,
+  "mdef": 70,
+  "atk": 2800,
+  "ele": "Undead",
+  "eleLv": 4,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "gl_chyard",
+   "gld_dun04"
+  ],
+  "card": "Dark Lord Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   },
+   {
+    "ele": "Holy",
+    "mult": 200
+   },
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "Fire Wall",
+   "calls minions",
+   "summons minions",
+   "Meteor Storm"
+  ],
+  "watch": [
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Fallen Bishop Hibram",
+  "lv": 80,
+  "hp": 3333333,
+  "def": 50,
+  "mdef": 0,
+  "atk": 3220,
+  "ele": "Dark",
+  "eleLv": 2,
+  "race": "Demon",
+  "size": "Medium",
+  "maps": [
+   "abbey02"
+  ],
+  "card": "Fallen Bishop Hibram Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "curse",
+   "Grand Darkness",
+   "silence"
+  ],
+  "watch": [
+   {
+    "n": "Grand Cross of Darkness",
+    "t": "dark AoE."
+   },
+   {
+    "n": "Grand Cross",
+    "t": "holy AoE."
+   },
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Magic Mirror",
+    "t": "can reflect your spell back."
+   },
+   {
+    "n": "Safety Wall",
+    "t": "melee attacks do nothing for a while. Use ranged or magic."
+   },
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   }
+  ]
+ },
+ {
+  "name": "Baphomet",
+  "lv": 81,
+  "hp": 668000,
+  "def": 35,
+  "mdef": 45,
+  "atk": 3220,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "prt_maze03"
+  ],
+  "card": "Baphomet Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "earthquake",
+   "powers up",
+   "calls minions",
+   "summons minions",
+   "Lord of Vermilion",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Lord of Vermilion",
+    "t": "wind AoE that can blind (Deviruchi Card)."
+   },
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Brandish Spear",
+    "t": "heavy line AoE in front of it."
+   }
+  ]
+ },
+ {
+  "name": "Maya",
+  "lv": 81,
+  "hp": 169000,
+  "def": 60,
+  "mdef": 25,
+  "atk": 1800,
+  "ele": "Earth",
+  "eleLv": 4,
+  "race": "Insect",
+  "size": "Large",
+  "maps": [
+   "anthell02",
+   "gld_dun03"
+  ],
+  "card": "Maya Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "silence",
+   "powers up",
+   "calls minions",
+   "summons minions",
+   "Heavens Drive"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Heaven's Drive",
+    "t": "earth AoE."
+   },
+   {
+    "n": "Brandish Spear",
+    "t": "heavy line AoE in front of it."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Atroce",
+  "lv": 82,
+  "hp": 1008420,
+  "def": 25,
+  "mdef": 25,
+  "atk": 2526,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "ra_fild02",
+   "ra_fild03",
+   "ra_fild04"
+  ],
+  "card": "Atroce Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "bleeding",
+   "powers up"
+  ],
+  "watch": [
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defender",
+    "t": "cuts ranged damage."
+   },
+   {
+    "n": "Pulse Strike",
+    "t": "ground AoE."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Status attacks",
+    "t": "bleeding. Helpful: Ungoliant Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Dracula",
+  "lv": 85,
+  "hp": 320096,
+  "def": 45,
+  "mdef": 76,
+  "atk": 1625,
+  "ele": "Dark",
+  "eleLv": 4,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "gef_dun01"
+  ],
+  "card": "Dracula Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "silence",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Invisible",
+    "t": "you cannot see it without Sight or Ruwach."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   },
+   {
+    "n": "Decrease AGI",
+    "t": "slows you."
+   }
+  ]
+ },
+ {
+  "name": "White Lady",
+  "lv": 85,
+  "hp": 253221,
+  "def": 20,
+  "mdef": 55,
+  "atk": 1868,
+  "ele": "Wind",
+  "eleLv": 3,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "lou_dun03"
+  ],
+  "card": "White Lady Card",
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Invisible",
+    "t": "you cannot see it without Sight or Ruwach."
+   },
+   {
+    "n": "Assumptio",
+    "t": "halves the damage it takes for a while."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Gopinich",
+  "lv": 85,
+  "hp": 299321,
+  "def": 20,
+  "mdef": 42,
+  "atk": 1868,
+  "ele": "Earth",
+  "eleLv": 3,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "mosk_dun03"
+  ],
+  "card": null,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "calls minions",
+   "Meteor Storm",
+   "powers up",
+   "Heavens Drive",
+   "silence"
+  ],
+  "watch": [
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Heaven's Drive",
+    "t": "earth AoE."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "RSX-0806",
+  "lv": 86,
+  "hp": 560733,
+  "def": 39,
+  "mdef": 41,
+  "atk": 2740,
+  "ele": "Neutral",
+  "eleLv": 3,
+  "race": "Formless",
+  "size": "Large",
+  "maps": [
+   "ein_dun02"
+  ],
+  "card": "RSX-0806 Card",
+  "weak": [],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "earthquake",
+   "summons minions",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Hammer Fall",
+    "t": "stuns everyone around it."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Amon Ra",
+  "lv": 88,
+  "hp": 1214138,
+  "def": 26,
+  "mdef": 52,
+  "atk": 1647,
+  "ele": "Earth",
+  "eleLv": 3,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "moc_pryd06"
+  ],
+  "card": "Amon Ra Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "Meteor Storm",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "HP drain",
+    "t": "drains HP to heal itself."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Heal",
+    "t": "heals itself. Burst it."
+   }
+  ]
+ },
+ {
+  "name": "Lady Tanee",
+  "lv": 89,
+  "hp": 493000,
+  "def": 20,
+  "mdef": 44,
+  "atk": 450,
+  "ele": "Wind",
+  "eleLv": 3,
+  "race": "Plant",
+  "size": "Large",
+  "maps": [
+   "ayo_dun02"
+  ],
+  "card": "Lady Tanee Card",
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "stun",
+   "powers up",
+   "summons minions",
+   "calls minions"
+  ],
+  "watch": [
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Defender",
+    "t": "cuts ranged damage."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Expulsion",
+    "t": "teleports you away from it."
+   }
+  ]
+ },
+ {
+  "name": "Gloom Under Night",
+  "lv": 89,
+  "hp": 2298000,
+  "def": 10,
+  "mdef": 20,
+  "atk": 5880,
+  "ele": "Ghost",
+  "eleLv": 3,
+  "race": "Formless",
+  "size": "Large",
+  "maps": [
+   "ra_san05"
+  ],
+  "card": "Gloom Under Night Card",
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   }
+  ]
+ },
+ {
+  "name": "Detardeurus",
+  "lv": 90,
+  "hp": 960000,
+  "def": 66,
+  "mdef": 59,
+  "atk": 4560,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Dragon",
+  "size": "Large",
+  "maps": [
+   "abyss_03"
+  ],
+  "card": "Detardeurus Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "calls minions",
+   "powers up",
+   "Meteor Storm",
+   "Lord of Vermilion",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Lord of Vermilion",
+    "t": "wind AoE that can blind (Deviruchi Card)."
+   },
+   {
+    "n": "Dragon Fear",
+    "t": "AoE that can cause several statuses."
+   },
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Shield Reflect",
+    "t": "sends melee damage back at you. Use ranged attacks."
+   }
+  ]
+ },
+ {
+  "name": "Kiel D-01",
+  "lv": 90,
+  "hp": 1523000,
+  "def": 28,
+  "mdef": 32,
+  "atk": 3280,
+  "ele": "Dark",
+  "eleLv": 2,
+  "race": "Formless",
+  "size": "Medium",
+  "maps": [
+   "kh_dun02"
+  ],
+  "card": "Kiel-D-01 Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "silence",
+   "powers up",
+   "heals itself"
+  ],
+  "watch": [
+   {
+    "n": "Safety Wall",
+    "t": "melee attacks do nothing for a while. Use ranged or magic."
+   },
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Brandish Spear",
+    "t": "heavy line AoE in front of it."
+   },
+   {
+    "n": "Status attacks",
+    "t": "silence. Helpful: Marduk Card."
+   }
+  ]
+ },
+ {
+  "name": "Pharaoh",
+  "lv": 93,
+  "hp": 445997,
+  "def": 67,
+  "mdef": 70,
+  "atk": 2267,
+  "ele": "Dark",
+  "eleLv": 3,
+  "race": "Demihuman",
+  "size": "Large",
+  "maps": [
+   "in_sphinx5"
+  ],
+  "card": "Pharaoh Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "powers up",
+   "Thunderstorm",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Thunderstorm",
+    "t": "wind AoE."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "SP drain",
+    "t": "drains your SP. Carry Blue Potions."
+   },
+   {
+    "n": "Guided Attack",
+    "t": "never misses, so Flee will not help."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   }
+  ]
+ },
+ {
+  "name": "Turtle General",
+  "lv": 97,
+  "hp": 320700,
+  "def": 50,
+  "mdef": 54,
+  "atk": 2438,
+  "ele": "Earth",
+  "eleLv": 2,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "tur_dun04"
+  ],
+  "card": "Turtle General Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "stun",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Vesper",
+  "lv": 97,
+  "hp": 640700,
+  "def": 50,
+  "mdef": 54,
+  "atk": 4000,
+  "ele": "Holy",
+  "eleLv": 2,
+  "race": "Brute",
+  "size": "Large",
+  "maps": [
+   "jupe_core"
+  ],
+  "card": "Vesper Card",
+  "weak": [
+   {
+    "ele": "Dark",
+    "mult": 150
+   },
+   {
+    "ele": "Undead",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "calls minions",
+   "powers up",
+   "Meteor Storm"
+  ],
+  "watch": [
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   }
+  ]
+ },
+ {
+  "name": "Beelzebub",
+  "lv": 98,
+  "hp": 6666666,
+  "def": 40,
+  "mdef": 40,
+  "atk": 10000,
+  "ele": "Ghost",
+  "eleLv": 4,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "abbey03"
+  ],
+  "card": "Berzebub Card",
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "calls minions",
+   "summons minions",
+   "stone"
+  ],
+  "watch": [
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Magic Mirror",
+    "t": "can reflect your spell back."
+   },
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Stone Skin",
+    "t": "raises its DEF for a while."
+   }
+  ]
+ },
+ {
+  "name": "Lord Knight Seyren",
+  "lv": 99,
+  "hp": 1647590,
+  "def": 72,
+  "mdef": 37,
+  "atk": 7238,
+  "ele": "Fire",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "Lord Knight Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "powers up",
+   "stun"
+  ],
+  "watch": [
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Spiral Pierce",
+    "t": "heavy single hit."
+   },
+   {
+    "n": "Magnum Break",
+    "t": "fire AoE with knockback."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   }
+  ]
+ },
+ {
+  "name": "Assassin Cross Eremes",
+  "lv": 99,
+  "hp": 1411230,
+  "def": 37,
+  "mdef": 39,
+  "atk": 4189,
+  "ele": "Poison",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "Assassin Cross Card",
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "stun"
+  ],
+  "watch": [
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Invisible",
+    "t": "you cannot see it without Sight or Ruwach."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "Whitesmith Howard",
+  "lv": 99,
+  "hp": 1460000,
+  "def": 66,
+  "mdef": 36,
+  "atk": 7822,
+  "ele": "Earth",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "MasterSmith Card",
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "powers up"
+  ],
+  "watch": [
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Hammer Fall",
+    "t": "stuns everyone around it."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   }
+  ]
+ },
+ {
+  "name": "High Priest Margaretha",
+  "lv": 99,
+  "hp": 1092910,
+  "def": 35,
+  "mdef": 78,
+  "atk": 4688,
+  "ele": "Holy",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "High Priest Card",
+  "weak": [
+   {
+    "ele": "Dark",
+    "mult": 200
+   },
+   {
+    "ele": "Undead",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "calls minions",
+   "summons minions",
+   "stun"
+  ],
+  "watch": [
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   },
+   {
+    "n": "Safety Wall",
+    "t": "melee attacks do nothing for a while. Use ranged or magic."
+   },
+   {
+    "n": "Assumptio",
+    "t": "halves the damage it takes for a while."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   }
+  ]
+ },
+ {
+  "name": "Sniper Cecil",
+  "lv": 99,
+  "hp": 1349000,
+  "def": 22,
+  "mdef": 35,
+  "atk": 4892,
+  "ele": "Wind",
+  "eleLv": 4,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "Sniper Card",
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "powers up",
+   "stun"
+  ],
+  "watch": [
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Defense-ignoring attack",
+    "t": "ignores your DEF."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   },
+   {
+    "n": "Status attacks",
+    "t": "stun. Helpful: Stalactic Golem Card / Flame Skull Card."
+   },
+   {
+    "n": "Teleport",
+    "t": "it can teleport away when hit. Burst it down or trap it."
+   },
+   {
+    "n": "Power Up",
+    "t": "hits harder when it is hurt."
+   }
+  ]
+ },
+ {
+  "name": "High Wizard Kathryne",
+  "lv": 99,
+  "hp": 1069920,
+  "def": 10,
+  "mdef": 88,
+  "atk": 1197,
+  "ele": "Ghost",
+  "eleLv": 3,
+  "race": "Demihuman",
+  "size": "Medium",
+  "maps": [
+   "lhz_dun03"
+  ],
+  "card": "High Wizard Card",
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "calls minions",
+   "summons minions",
+   "Storm Gust",
+   "Lord of Vermilion",
+   "Meteor Storm",
+   "Heavens Drive"
+  ],
+  "watch": [
+   {
+    "n": "Storm Gust",
+    "t": "ice AoE that can freeze (Marc Card)."
+   },
+   {
+    "n": "Lord of Vermilion",
+    "t": "wind AoE that can blind (Deviruchi Card)."
+   },
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Heaven's Drive",
+    "t": "earth AoE."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Element change",
+    "t": "changes its element mid-fight. Check it again with @mi."
+   }
+  ]
+ },
+ {
+  "name": "Valkyrie Randgris",
+  "lv": 99,
+  "hp": 3567200,
+  "def": 25,
+  "mdef": 42,
+  "atk": 5560,
+  "ele": "Holy",
+  "eleLv": 4,
+  "race": "Angel",
+  "size": "Large",
+  "maps": [
+   "odin_tem03"
+  ],
+  "card": "Randgris Card",
+  "weak": [
+   {
+    "ele": "Dark",
+    "mult": 200
+   },
+   {
+    "ele": "Undead",
+    "mult": 175
+   }
+  ],
+  "dangers": [
+   "summons minions",
+   "calls minions",
+   "powers up",
+   "Thunderstorm",
+   "earthquake",
+   "Lord of Vermilion"
+  ],
+  "watch": [
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Lord of Vermilion",
+    "t": "wind AoE that can blind (Deviruchi Card)."
+   },
+   {
+    "n": "Thunderstorm",
+    "t": "wind AoE."
+   },
+   {
+    "n": "Minions",
+    "t": "summons and recalls minions. Kill or AoE them first, or they swarm you."
+   },
+   {
+    "n": "Pulse Strike",
+    "t": "ground AoE."
+   },
+   {
+    "n": "Assumptio",
+    "t": "halves the damage it takes for a while."
+   }
+  ]
+ },
+ {
+  "name": "Ifrit",
+  "lv": 99,
+  "hp": 7700000,
+  "def": 40,
+  "mdef": 50,
+  "atk": 13530,
+  "ele": "Fire",
+  "eleLv": 4,
+  "race": "Formless",
+  "size": "Large",
+  "maps": [
+   "thor_v03"
+  ],
+  "card": "Ifrit Card",
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "heals itself",
+   "powers up",
+   "summons minions",
+   "calls minions",
+   "Meteor Storm",
+   "earthquake"
+  ],
+  "watch": [
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   },
+   {
+    "n": "Equipment breakers",
+    "t": "breaks or strips your gear. Carry spares; Cornutus Card keeps your armor from breaking."
+   },
+   {
+    "n": "Breath attacks",
+    "t": "line / cone AoE. Stay out of its facing."
+   },
+   {
+    "n": "Dragon Fear",
+    "t": "AoE that can cause several statuses."
+   }
+  ]
+ },
+ {
+  "name": "Wounded Morocc",
+  "lv": 99,
+  "hp": 8388607,
+  "def": 29,
+  "mdef": 65,
+  "atk": 15000,
+  "ele": "Dark",
+  "eleLv": 4,
+  "race": "Demon",
+  "size": "Large",
+  "maps": [
+   "moc_fild22"
+  ],
+  "card": null,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 200
+   }
+  ],
+  "dangers": [
+   "stun",
+   "earthquake",
+   "stone",
+   "Meteor Storm",
+   "sleep",
+   "Jupitel Thunder",
+   "heals itself",
+   "calls minions",
+   "summons minions"
+  ],
+  "watch": [
+   {
+    "n": "Earthquake",
+    "t": "big AoE around it. Do not stand next to it."
+   },
+   {
+    "n": "Meteor Storm",
+    "t": "fire AoE dropped around you. Keep moving."
+   },
+   {
+    "n": "Hell's Judgement",
+    "t": "huge AoE, its hardest hit. Keep your HP full and spread out."
+   },
+   {
+    "n": "Dragon Fear",
+    "t": "AoE that can cause several statuses."
+   },
+   {
+    "n": "Jupitel Thunder",
+    "t": "wind hit that knocks you back."
+   },
+   {
+    "n": "Pneuma",
+    "t": "ranged physical attacks do nothing for a while. Use melee or magic."
+   }
+  ]
+ }
+]

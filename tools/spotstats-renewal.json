@@ -1,0 +1,5579 @@
+{
+ "prt_fild08, prt_fild01": {
+  "maps": [
+   "prt_fild08",
+   "prt_fild01"
+  ],
+  "perMap": 451,
+  "mobs": [
+   {
+    "name": "Lunatic",
+    "lv": 100,
+    "n": 363,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 100000,
+    "def": 18,
+    "mdef": 0
+   },
+   {
+    "name": "Poring",
+    "lv": 100,
+    "n": 239,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 25000,
+    "def": 146,
+    "mdef": 5
+   },
+   {
+    "name": "Fabre",
+    "lv": 100,
+    "n": 219,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 25000,
+    "def": 148,
+    "mdef": 0
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.44,
+  "eleLv": 3,
+  "race": "Brute",
+  "raceShare": 0.44,
+  "size": "Small",
+  "sizeShare": 0.71,
+  "def": 90,
+  "mdef": 1,
+  "hp": 58161,
+  "lv": 100,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "gef_fild07, pay_fild03": {
+  "maps": [
+   "gef_fild07",
+   "pay_fild03"
+  ],
+  "perMap": 209,
+  "mobs": [
+   {
+    "name": "Pupa",
+    "lv": 2,
+    "n": 154,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 427,
+    "def": 32,
+    "mdef": 20
+   },
+   {
+    "name": "Fabre",
+    "lv": 100,
+    "n": 150,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 25000,
+    "def": 148,
+    "mdef": 0
+   },
+   {
+    "name": "Poring",
+    "lv": 100,
+    "n": 45,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 25000,
+    "def": 146,
+    "mdef": 5
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.87,
+  "eleLv": 1,
+  "race": "Insect",
+  "raceShare": 0.87,
+  "size": "Small",
+  "sizeShare": 0.87,
+  "def": 97,
+  "mdef": 9,
+  "hp": 14157,
+  "lv": 57,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "pay_fild01": {
+  "maps": [
+   "pay_fild01"
+  ],
+  "perMap": 264,
+  "mobs": [
+   {
+    "name": "Willow",
+    "lv": 101,
+    "n": 181,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 151,
+    "mdef": 2
+   },
+   {
+    "name": "Poring",
+    "lv": 100,
+    "n": 38,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 25000,
+    "def": 146,
+    "mdef": 5
+   },
+   {
+    "name": "Fabre",
+    "lv": 100,
+    "n": 38,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 25000,
+    "def": 148,
+    "mdef": 0
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.85,
+  "eleLv": 1,
+  "race": "Plant",
+  "raceShare": 0.85,
+  "size": "Medium",
+  "sizeShare": 0.85,
+  "def": 150,
+  "mdef": 2,
+  "hp": 35564,
+  "lv": 101,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "prt_fild05, prt_fild07": {
+  "maps": [
+   "prt_fild05",
+   "prt_fild07"
+  ],
+  "perMap": 285,
+  "mobs": [
+   {
+    "name": "Rocker",
+    "lv": 100,
+    "n": 203,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 100000,
+    "def": 16,
+    "mdef": 3
+   },
+   {
+    "name": "Hornet",
+    "lv": 0,
+    "n": 199,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Savage Babe",
+    "lv": 0,
+    "n": 67,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Thief Bug",
+    "lv": 0,
+    "n": 42,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.56,
+  "eleLv": 1,
+  "race": "Formless",
+  "raceShare": 0.56,
+  "size": "Small",
+  "sizeShare": 0.63,
+  "def": 11,
+  "mdef": 2,
+  "hp": 36731,
+  "lv": 38,
+  "weak": [],
+  "resist": []
+ },
+ "moc_fild11": {
+  "maps": [
+   "moc_fild11"
+  ],
+  "perMap": 318,
+  "mobs": [
+   {
+    "name": "Baby Desert Wolf",
+    "lv": 9,
+    "n": 137,
+    "ele": "Fire",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 164,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Condor",
+    "lv": 101,
+    "n": 137,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 150,
+    "mdef": 5
+   },
+   {
+    "name": "Scorpion",
+    "lv": 105,
+    "n": 41,
+    "ele": "Fire",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 100000,
+    "def": 168,
+    "mdef": 5
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.57,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.87,
+  "size": "Small",
+  "sizeShare": 0.57,
+  "def": 87,
+  "mdef": 3,
+  "hp": 30484,
+  "lv": 62,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 25
+   }
+  ]
+ },
+ "pay_fild02, pay_fild06": {
+  "maps": [
+   "pay_fild02",
+   "pay_fild06"
+  ],
+  "perMap": 218,
+  "mobs": [
+   {
+    "name": "Boa",
+    "lv": 103,
+    "n": 172,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 70000,
+    "def": 159,
+    "mdef": 8
+   },
+   {
+    "name": "Wormtail",
+    "lv": 102,
+    "n": 170,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 55000,
+    "def": 157,
+    "mdef": 0
+   },
+   {
+    "name": "Spore",
+    "lv": 101,
+    "n": 60,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 152,
+    "mdef": 10
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.85,
+  "eleLv": 1,
+  "race": "Plant",
+  "raceShare": 0.57,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 157,
+  "mdef": 5,
+  "hp": 59179,
+  "lv": 102,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "prt_sewb1, prt_sewb2": {
+  "maps": [
+   "prt_sewb1",
+   "prt_sewb2"
+  ],
+  "perMap": 212,
+  "mobs": [
+   {
+    "name": "Thief Bug Egg",
+    "lv": 20,
+    "n": 126,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 290,
+    "def": 64,
+    "mdef": 10
+   },
+   {
+    "name": "Thief Bug",
+    "lv": 0,
+    "n": 110,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Familiar",
+    "lv": 160,
+    "n": 76,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 127820,
+    "def": 46,
+    "mdef": 60
+   },
+   {
+    "name": "Tarou",
+    "lv": 22,
+    "n": 73,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 285,
+    "def": 23,
+    "mdef": 5
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.71,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.39,
+  "size": "Small",
+  "sizeShare": 1,
+  "def": 34,
+  "mdef": 16,
+  "hp": 25381,
+  "lv": 42,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "prt_sewb3": {
+  "maps": [
+   "prt_sewb3"
+  ],
+  "perMap": 213,
+  "mobs": [
+   {
+    "name": "Thief Bug Female",
+    "lv": 28,
+    "n": 65,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 475,
+    "def": 28,
+    "mdef": 7
+   },
+   {
+    "name": "Thief Bug Male",
+    "lv": 19,
+    "n": 65,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 583,
+    "def": 24,
+    "mdef": 5
+   },
+   {
+    "name": "Familiar",
+    "lv": 160,
+    "n": 20,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 127820,
+    "def": 46,
+    "mdef": 60
+   },
+   {
+    "name": "Thief Bug",
+    "lv": 0,
+    "n": 20,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.82,
+  "eleLv": 1,
+  "race": "Insect",
+  "raceShare": 0.65,
+  "size": "Medium",
+  "sizeShare": 0.72,
+  "def": 23,
+  "mdef": 10,
+  "hp": 13197,
+  "lv": 34,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "mjo_dun01": {
+  "maps": [
+   "mjo_dun01"
+  ],
+  "perMap": 117,
+  "mobs": [
+   {
+    "name": "Tarou",
+    "lv": 22,
+    "n": 63,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 285,
+    "def": 23,
+    "mdef": 5
+   },
+   {
+    "name": "Familiar",
+    "lv": 160,
+    "n": 31,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 127820,
+    "def": 46,
+    "mdef": 60
+   },
+   {
+    "name": "Martin",
+    "lv": 39,
+    "n": 21,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 769,
+    "def": 58,
+    "mdef": 19
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.82,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 1,
+  "size": "Small",
+  "sizeShare": 1,
+  "def": 36,
+  "mdef": 22,
+  "hp": 34752,
+  "lv": 62,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "moc_pryd01": {
+  "maps": [
+   "moc_pryd01"
+  ],
+  "perMap": 100,
+  "mobs": [
+   {
+    "name": "Familiar",
+    "lv": 160,
+    "n": 72,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 127820,
+    "def": 46,
+    "mdef": 60
+   },
+   {
+    "name": "Poporing",
+    "lv": 101,
+    "n": 28,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 153,
+    "mdef": 17
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.72,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.72,
+  "size": "Small",
+  "sizeShare": 0.72,
+  "def": 76,
+  "mdef": 48,
+  "hp": 103230,
+  "lv": 143,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "pay_dun00": {
+  "maps": [
+   "pay_dun00"
+  ],
+  "perMap": 125,
+  "mobs": [
+   {
+    "name": "Zombie",
+    "lv": 160,
+    "n": 40,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 146220,
+    "def": 45,
+    "mdef": 36
+   },
+   {
+    "name": "Skeleton",
+    "lv": 160,
+    "n": 35,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 135210,
+    "def": 81,
+    "mdef": 24
+   },
+   {
+    "name": "Familiar",
+    "lv": 160,
+    "n": 15,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 127820,
+    "def": 46,
+    "mdef": 60
+   },
+   {
+    "name": "Poporing",
+    "lv": 101,
+    "n": 15,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 153,
+    "mdef": 17
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.71,
+  "eleLv": 1,
+  "race": "Undead",
+  "raceShare": 0.71,
+  "size": "Medium",
+  "sizeShare": 0.86,
+  "def": 73,
+  "mdef": 33,
+  "hp": 124747,
+  "lv": 152,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "anthell01, anthell02": {
+  "maps": [
+   "anthell01",
+   "anthell02"
+  ],
+  "perMap": 188,
+  "mobs": [
+   {
+    "name": "Ant Egg",
+    "lv": 4,
+    "n": 102,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 420,
+    "def": 32,
+    "mdef": 20
+   },
+   {
+    "name": "Piere",
+    "lv": 104,
+    "n": 65,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 85000,
+    "def": 165,
+    "mdef": 16
+   },
+   {
+    "name": "Andre",
+    "lv": 105,
+    "n": 65,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 100000,
+    "def": 166,
+    "mdef": 16
+   },
+   {
+    "name": "Deniro",
+    "lv": 104,
+    "n": 55,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 85000,
+    "def": 164,
+    "mdef": 16
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.61,
+  "eleLv": 1,
+  "race": "Insect",
+  "raceShare": 0.61,
+  "size": "Small",
+  "sizeShare": 1,
+  "def": 102,
+  "mdef": 21,
+  "hp": 59617,
+  "lv": 75,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "xmas_dun02": {
+  "maps": [
+   "xmas_dun02"
+  ],
+  "perMap": 177,
+  "mobs": [
+   {
+    "name": "Myst Case",
+    "lv": 39,
+    "n": 70,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 809,
+    "def": 50,
+    "mdef": 11
+   },
+   {
+    "name": "Cruiser",
+    "lv": 41,
+    "n": 49,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 921,
+    "def": 20,
+    "mdef": 18
+   },
+   {
+    "name": "Cookie",
+    "lv": 35,
+    "n": 28,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Small",
+    "hp": 597,
+    "def": 56,
+    "mdef": 28
+   },
+   {
+    "name": "Christmas Cookie",
+    "lv": 37,
+    "n": 28,
+    "ele": "Holy",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Small",
+    "hp": 661,
+    "def": 48,
+    "mdef": 36
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.84,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.68,
+  "size": "Medium",
+  "sizeShare": 0.68,
+  "def": 42,
+  "mdef": 20,
+  "hp": 783,
+  "lv": 39,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "pay_dun01": {
+  "maps": [
+   "pay_dun01"
+  ],
+  "perMap": 125,
+  "mobs": [
+   {
+    "name": "Soldier Skeleton",
+    "lv": 34,
+    "n": 53,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 691,
+    "def": 53,
+    "mdef": 5
+   },
+   {
+    "name": "Archer Skeleton",
+    "lv": 50,
+    "n": 32,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1458,
+    "def": 47,
+    "mdef": 10
+   },
+   {
+    "name": "Eggyra",
+    "lv": 53,
+    "n": 16,
+    "ele": "Ghost",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 1236,
+    "def": 85,
+    "mdef": 20
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.84,
+  "eleLv": 1,
+  "race": "Undead",
+  "raceShare": 0.84,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 56,
+  "mdef": 9,
+  "hp": 1020,
+  "lv": 42,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "treasure01": {
+  "maps": [
+   "treasure01"
+  ],
+  "perMap": 137,
+  "mobs": [
+   {
+    "name": "Hydra",
+    "lv": 34,
+    "n": 71,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 661,
+    "def": 20,
+    "mdef": 32
+   },
+   {
+    "name": "Pirate Skeleton",
+    "lv": 48,
+    "n": 56,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1351,
+    "def": 53,
+    "mdef": 20
+   },
+   {
+    "name": "Kukre",
+    "lv": 100,
+    "n": 10,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 160000,
+    "def": 123,
+    "mdef": 33
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 0.59,
+  "eleLv": 2,
+  "race": "Plant",
+  "raceShare": 0.52,
+  "size": "Small",
+  "sizeShare": 0.59,
+  "def": 41,
+  "mdef": 27,
+  "hp": 12574,
+  "lv": 45,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "iz_dun00, iz_dun01, iz_dun02": {
+  "maps": [
+   "iz_dun00",
+   "iz_dun01",
+   "iz_dun02"
+  ],
+  "perMap": 202,
+  "mobs": [
+   {
+    "name": "Plankton",
+    "lv": 10,
+    "n": 98,
+    "ele": "Water",
+    "eleLv": 3,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 354,
+    "def": 0,
+    "mdef": 5
+   },
+   {
+    "name": "Hydra",
+    "lv": 34,
+    "n": 90,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 661,
+    "def": 20,
+    "mdef": 32
+   },
+   {
+    "name": "Vadon",
+    "lv": 19,
+    "n": 80,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Fish",
+    "size": "Small",
+    "hp": 5000,
+    "def": 32,
+    "mdef": 0
+   },
+   {
+    "name": "Marina",
+    "lv": 21,
+    "n": 76,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 2087,
+    "def": 0,
+    "mdef": 5
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 1,
+  "eleLv": 2,
+  "race": "Plant",
+  "raceShare": 0.46,
+  "size": "Small",
+  "sizeShare": 0.93,
+  "def": 34,
+  "mdef": 17,
+  "hp": 21205,
+  "lv": 38,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "mjo_dun02": {
+  "maps": [
+   "mjo_dun02"
+  ],
+  "perMap": 160,
+  "mobs": [
+   {
+    "name": "Martin",
+    "lv": 39,
+    "n": 71,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 769,
+    "def": 58,
+    "mdef": 19
+   },
+   {
+    "name": "Giearth",
+    "lv": 42,
+    "n": 41,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 866,
+    "def": 52,
+    "mdef": 16
+   },
+   {
+    "name": "Drainliar",
+    "lv": 160,
+    "n": 23,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 184779,
+    "def": 50,
+    "mdef": 15
+   },
+   {
+    "name": "Skeleton Worker",
+    "lv": 44,
+    "n": 23,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1151,
+    "def": 45,
+    "mdef": 5
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.71,
+  "eleLv": 2,
+  "race": "Brute",
+  "raceShare": 0.59,
+  "size": "Small",
+  "sizeShare": 0.85,
+  "def": 53,
+  "mdef": 16,
+  "hp": 27636,
+  "lv": 58,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "moc_pryd02": {
+  "maps": [
+   "moc_pryd02"
+  ],
+  "perMap": 140,
+  "mobs": [
+   {
+    "name": "Mummy",
+    "lv": 55,
+    "n": 31,
+    "ele": "Undead",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1899,
+    "def": 95,
+    "mdef": 3
+   },
+   {
+    "name": "Soldier Skeleton",
+    "lv": 34,
+    "n": 31,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 691,
+    "def": 53,
+    "mdef": 5
+   },
+   {
+    "name": "Archer Skeleton",
+    "lv": 50,
+    "n": 31,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1458,
+    "def": 47,
+    "mdef": 10
+   },
+   {
+    "name": "Drainliar",
+    "lv": 160,
+    "n": 20,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 184779,
+    "def": 50,
+    "mdef": 15
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.7,
+  "eleLv": 1,
+  "race": "Undead",
+  "raceShare": 0.7,
+  "size": "Medium",
+  "sizeShare": 0.85,
+  "def": 76,
+  "mdef": 9,
+  "hp": 34745,
+  "lv": 72,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "orcsdun01, orcsdun02": {
+  "maps": [
+   "orcsdun01",
+   "orcsdun02"
+  ],
+  "perMap": 147,
+  "mobs": [
+   {
+    "name": "Orc Zombie",
+    "lv": 51,
+    "n": 80,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1586,
+    "def": 71,
+    "mdef": 5
+   },
+   {
+    "name": "Orc Skeleton",
+    "lv": 53,
+    "n": 60,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1699,
+    "def": 82,
+    "mdef": 10
+   },
+   {
+    "name": "Zenorc",
+    "lv": 54,
+    "n": 50,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 1757,
+    "def": 69,
+    "mdef": 5
+   },
+   {
+    "name": "Steel Chonchon",
+    "lv": 48,
+    "n": 30,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 985,
+    "def": 57,
+    "mdef": 20
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.57,
+  "eleLv": 1,
+  "race": "Undead",
+  "raceShare": 0.57,
+  "size": "Medium",
+  "sizeShare": 0.78,
+  "def": 69,
+  "mdef": 9,
+  "hp": 20268,
+  "lv": 63,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "iz_dun03": {
+  "maps": [
+   "iz_dun03"
+  ],
+  "perMap": 180,
+  "mobs": [
+   {
+    "name": "Phen",
+    "lv": 52,
+    "n": 45,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Fish",
+    "size": "Medium",
+    "hp": 1716,
+    "def": 44,
+    "mdef": 11
+   },
+   {
+    "name": "Marc",
+    "lv": 36,
+    "n": 40,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Fish",
+    "size": "Medium",
+    "hp": 6900,
+    "def": 8,
+    "mdef": 10
+   },
+   {
+    "name": "Swordfish",
+    "lv": 57,
+    "n": 40,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Fish",
+    "size": "Large",
+    "hp": 2203,
+    "def": 52,
+    "mdef": 12
+   },
+   {
+    "name": "Hydra",
+    "lv": 34,
+    "n": 30,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 661,
+    "def": 20,
+    "mdef": 32
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 1,
+  "eleLv": 2,
+  "race": "Fish",
+  "raceShare": 0.71,
+  "size": "Medium",
+  "sizeShare": 0.49,
+  "def": 33,
+  "mdef": 17,
+  "hp": 2845,
+  "lv": 46,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "moc_pryd03, moc_pryd05": {
+  "maps": [
+   "moc_pryd03",
+   "moc_pryd05"
+  ],
+  "perMap": 135,
+  "mobs": [
+   {
+    "name": "Verit",
+    "lv": 52,
+    "n": 85,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1642,
+    "def": 63,
+    "mdef": 10
+   },
+   {
+    "name": "Mummy",
+    "lv": 55,
+    "n": 83,
+    "ele": "Undead",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 1899,
+    "def": 95,
+    "mdef": 3
+   },
+   {
+    "name": "Minorous",
+    "lv": 58,
+    "n": 78,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Large",
+    "hp": 1729,
+    "def": 100,
+    "mdef": 10
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.68,
+  "eleLv": 1,
+  "race": "Undead",
+  "raceShare": 0.68,
+  "size": "Medium",
+  "sizeShare": 0.68,
+  "def": 86,
+  "mdef": 8,
+  "hp": 1756,
+  "lv": 55,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "in_sphinx1": {
+  "maps": [
+   "in_sphinx1"
+  ],
+  "perMap": 172,
+  "mobs": [
+   {
+    "name": "Drainliar",
+    "lv": 160,
+    "n": 76,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 184779,
+    "def": 50,
+    "mdef": 15
+   },
+   {
+    "name": "Requiem",
+    "lv": 71,
+    "n": 38,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 3251,
+    "def": 88,
+    "mdef": 20
+   },
+   {
+    "name": "Zerom",
+    "lv": 70,
+    "n": 38,
+    "ele": "Fire",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 2429,
+    "def": 93,
+    "mdef": 15
+   },
+   {
+    "name": "Matyr",
+    "lv": 58,
+    "n": 19,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 2002,
+    "def": 63,
+    "mdef": 5
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.78,
+  "eleLv": 2,
+  "race": "Brute",
+  "raceShare": 0.56,
+  "size": "Medium",
+  "sizeShare": 0.56,
+  "def": 69,
+  "mdef": 15,
+  "hp": 83609,
+  "lv": 109,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "beach_dun2": {
+  "maps": [
+   "beach_dun2"
+  ],
+  "perMap": 115,
+  "mobs": [
+   {
+    "name": "Stalactic Golem",
+    "lv": 68,
+    "n": 65,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 2817,
+    "def": 230,
+    "mdef": 5
+   },
+   {
+    "name": "Tri Joint",
+    "lv": 108,
+    "n": 20,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 145000,
+    "def": 180,
+    "mdef": 5
+   },
+   {
+    "name": "Megalith",
+    "lv": 100,
+    "n": 15,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 100000,
+    "def": 66,
+    "mdef": 18
+   },
+   {
+    "name": "Hydra",
+    "lv": 34,
+    "n": 10,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 661,
+    "def": 20,
+    "mdef": 32
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.73,
+  "eleLv": 4,
+  "race": "Formless",
+  "raceShare": 0.73,
+  "size": "Large",
+  "sizeShare": 0.73,
+  "def": 179,
+  "mdef": 9,
+  "hp": 41725,
+  "lv": 77,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 0
+   }
+  ]
+ },
+ "iz_dun04": {
+  "maps": [
+   "iz_dun04"
+  ],
+  "perMap": 164,
+  "mobs": [
+   {
+    "name": "Merman",
+    "lv": 60,
+    "n": 61,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 2324,
+    "def": 62,
+    "mdef": 8
+   },
+   {
+    "name": "Strouf",
+    "lv": 145,
+    "n": 58,
+    "ele": "Water",
+    "eleLv": 3,
+    "race": "Fish",
+    "size": "Large",
+    "hp": 400000,
+    "def": 67,
+    "mdef": 221
+   },
+   {
+    "name": "Hydra",
+    "lv": 34,
+    "n": 18,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 661,
+    "def": 20,
+    "mdef": 32
+   },
+   {
+    "name": "Swordfish",
+    "lv": 57,
+    "n": 11,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Fish",
+    "size": "Large",
+    "hp": 2203,
+    "def": 52,
+    "mdef": 12
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 1,
+  "eleLv": 2,
+  "race": "Fish",
+  "raceShare": 0.43,
+  "size": "Large",
+  "sizeShare": 0.43,
+  "def": 57,
+  "mdef": 90,
+  "hp": 147157,
+  "lv": 87,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "gef_dun01": {
+  "maps": [
+   "gef_dun01"
+  ],
+  "perMap": 173,
+  "mobs": [
+   {
+    "name": "Ghoul",
+    "lv": 160,
+    "n": 40,
+    "ele": "Undead",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 200634,
+    "def": 78,
+    "mdef": 5
+   },
+   {
+    "name": "Jakk",
+    "lv": 160,
+    "n": 40,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 181967,
+    "def": 90,
+    "mdef": 25
+   },
+   {
+    "name": "Nightmare",
+    "lv": 160,
+    "n": 30,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 199129,
+    "def": 116,
+    "mdef": 15
+   },
+   {
+    "name": "Zombie",
+    "lv": 160,
+    "n": 25,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 146220,
+    "def": 45,
+    "mdef": 36
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.42,
+  "eleLv": 2,
+  "race": "Undead",
+  "raceShare": 0.42,
+  "size": "Medium",
+  "sizeShare": 0.68,
+  "def": 80,
+  "mdef": 18,
+  "hp": 184703,
+  "lv": 160,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Holy",
+    "mult": 150
+   },
+   {
+    "ele": "Ghost",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   },
+   {
+    "ele": "Poison",
+    "mult": 50
+   }
+  ]
+ },
+ "ayo_dun01": {
+  "maps": [
+   "ayo_dun01"
+  ],
+  "perMap": 178,
+  "mobs": [
+   {
+    "name": "Leaf Cat",
+    "lv": 64,
+    "n": 104,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 2070,
+    "def": 88,
+    "mdef": 16
+   },
+   {
+    "name": "Ghoul",
+    "lv": 160,
+    "n": 48,
+    "ele": "Undead",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 200634,
+    "def": 78,
+    "mdef": 5
+   },
+   {
+    "name": "Whisper",
+    "lv": 1,
+    "n": 16,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 1000,
+    "def": 1,
+    "mdef": 1
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.62,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.62,
+  "size": "Small",
+  "sizeShare": 0.71,
+  "def": 77,
+  "mdef": 11,
+  "hp": 58701,
+  "lv": 85,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "pay_dun03, pay_dun04": {
+  "maps": [
+   "pay_dun03",
+   "pay_dun04"
+  ],
+  "perMap": 146,
+  "mobs": [
+   {
+    "name": "Sohee",
+    "lv": 64,
+    "n": 70,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 2528,
+    "def": 61,
+    "mdef": 21
+   },
+   {
+    "name": "Dokebi",
+    "lv": 102,
+    "n": 40,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 55000,
+    "def": 155,
+    "mdef": 20
+   },
+   {
+    "name": "Nine Tail",
+    "lv": 72,
+    "n": 32,
+    "ele": "Fire",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 2422,
+    "def": 95,
+    "mdef": 40
+   },
+   {
+    "name": "Horong",
+    "lv": 66,
+    "n": 30,
+    "ele": "Fire",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 1701,
+    "def": 84,
+    "mdef": 35
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.42,
+  "eleLv": 3,
+  "race": "Demon",
+  "raceShare": 0.58,
+  "size": "Medium",
+  "sizeShare": 0.63,
+  "def": 95,
+  "mdef": 27,
+  "hp": 13320,
+  "lv": 73,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "in_sphinx2, in_sphinx3": {
+  "maps": [
+   "in_sphinx2",
+   "in_sphinx3"
+  ],
+  "perMap": 166,
+  "mobs": [
+   {
+    "name": "Marduk",
+    "lv": 73,
+    "n": 82,
+    "ele": "Fire",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Large",
+    "hp": 3099,
+    "def": 66,
+    "mdef": 43
+   },
+   {
+    "name": "Requiem",
+    "lv": 71,
+    "n": 80,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 3251,
+    "def": 88,
+    "mdef": 20
+   },
+   {
+    "name": "Zerom",
+    "lv": 70,
+    "n": 80,
+    "ele": "Fire",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 2429,
+    "def": 93,
+    "mdef": 15
+   },
+   {
+    "name": "Matyr",
+    "lv": 58,
+    "n": 50,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 2002,
+    "def": 63,
+    "mdef": 5
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.51,
+  "eleLv": 1,
+  "race": "Demihuman",
+  "raceShare": 0.77,
+  "size": "Medium",
+  "sizeShare": 0.66,
+  "def": 77,
+  "mdef": 22,
+  "hp": 16593,
+  "lv": 76,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 25
+   }
+  ]
+ },
+ "ayo_dun02": {
+  "maps": [
+   "ayo_dun02"
+  ],
+  "perMap": 164,
+  "mobs": [
+   {
+    "name": "Tamruan",
+    "lv": 73,
+    "n": 116,
+    "ele": "Dark",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 3717,
+    "def": 63,
+    "mdef": 30
+   },
+   {
+    "name": "Whisper",
+    "lv": 1,
+    "n": 23,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 1000,
+    "def": 1,
+    "mdef": 1
+   },
+   {
+    "name": "Kraben",
+    "lv": 70,
+    "n": 23,
+    "ele": "Ghost",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 2159,
+    "def": 108,
+    "mdef": 20
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.72,
+  "eleLv": 3,
+  "race": "Demon",
+  "raceShare": 0.86,
+  "size": "Large",
+  "sizeShare": 0.72,
+  "def": 61,
+  "mdef": 24,
+  "hp": 3110,
+  "lv": 62,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 175
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   },
+   {
+    "ele": "Poison",
+    "mult": 50
+   }
+  ]
+ },
+ "gef_dun03": {
+  "maps": [
+   "gef_dun03"
+  ],
+  "perMap": 44,
+  "mobs": [
+   {
+    "name": "White Plant",
+    "lv": 0,
+    "n": 18,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Wraith",
+    "lv": 77,
+    "n": 14,
+    "ele": "Undead",
+    "eleLv": 4,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 4415,
+    "def": 80,
+    "mdef": 40
+   },
+   {
+    "name": "Wind Ghost",
+    "lv": 80,
+    "n": 5,
+    "ele": "Wind",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 3631,
+    "def": 64,
+    "mdef": 51
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.49,
+  "eleLv": 1,
+  "race": "Formless",
+  "raceShare": 0.49,
+  "size": "Small",
+  "sizeShare": 0.49,
+  "def": 39,
+  "mdef": 22,
+  "hp": 2161,
+  "lv": 40,
+  "weak": [],
+  "resist": []
+ },
+ "gl_church": {
+  "maps": [
+   "gl_church"
+  ],
+  "perMap": 177,
+  "mobs": [
+   {
+    "name": "Evil Druid",
+    "lv": 80,
+    "n": 85,
+    "ele": "Undead",
+    "eleLv": 4,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 4720,
+    "def": 88,
+    "mdef": 45
+   },
+   {
+    "name": "Wraith",
+    "lv": 77,
+    "n": 78,
+    "ele": "Undead",
+    "eleLv": 4,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 4415,
+    "def": 80,
+    "mdef": 40
+   },
+   {
+    "name": "Mimic",
+    "lv": 51,
+    "n": 12,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 6120,
+    "def": 10,
+    "mdef": 40
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.93,
+  "eleLv": 4,
+  "race": "Undead",
+  "raceShare": 0.93,
+  "size": "Large",
+  "sizeShare": 0.93,
+  "def": 79,
+  "mdef": 42,
+  "hp": 4680,
+  "lv": 77,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 200
+   },
+   {
+    "ele": "Holy",
+    "mult": 200
+   },
+   {
+    "ele": "Ghost",
+    "mult": 175
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Poison",
+    "mult": 0
+   },
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "c_tower1": {
+  "maps": [
+   "c_tower1"
+  ],
+  "perMap": 218,
+  "mobs": [
+   {
+    "name": "Rideword",
+    "lv": 74,
+    "n": 107,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 2855,
+    "def": 61,
+    "mdef": 38
+   },
+   {
+    "name": "Punk",
+    "lv": 82,
+    "n": 107,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 3498,
+    "def": 68,
+    "mdef": 55
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.5,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.5,
+  "size": "Small",
+  "sizeShare": 1,
+  "def": 65,
+  "mdef": 47,
+  "hp": 3177,
+  "lv": 78,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "mosk_dun01, mosk_dun02, mosk_dun03": {
+  "maps": [
+   "mosk_dun01",
+   "mosk_dun02",
+   "mosk_dun03"
+  ],
+  "perMap": 27,
+  "mobs": [
+   {
+    "name": "Poporing",
+    "lv": 101,
+    "n": 22,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 40000,
+    "def": 153,
+    "mdef": 17
+   },
+   {
+    "name": "Mavka",
+    "lv": 84,
+    "n": 17,
+    "ele": "Earth",
+    "eleLv": 3,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 4990,
+    "def": 98,
+    "mdef": 58
+   },
+   {
+    "name": "Mantis",
+    "lv": 65,
+    "n": 11,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 2363,
+    "def": 90,
+    "mdef": 0
+   },
+   {
+    "name": "White Plant",
+    "lv": 0,
+    "n": 11,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.46,
+  "eleLv": 2,
+  "race": "Plant",
+  "raceShare": 0.64,
+  "size": "Medium",
+  "sizeShare": 0.82,
+  "def": 99,
+  "mdef": 22,
+  "hp": 16243,
+  "lv": 72,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "c_tower2, c_tower3": {
+  "maps": [
+   "c_tower2",
+   "c_tower3"
+  ],
+  "perMap": 133,
+  "mobs": [
+   {
+    "name": "Alarm",
+    "lv": 58,
+    "n": 109,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 10647,
+    "def": 24,
+    "mdef": 15
+   },
+   {
+    "name": "Punk",
+    "lv": 82,
+    "n": 55,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 3498,
+    "def": 68,
+    "mdef": 55
+   },
+   {
+    "name": "Clock",
+    "lv": 81,
+    "n": 55,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 4505,
+    "def": 91,
+    "mdef": 43
+   },
+   {
+    "name": "Rideword",
+    "lv": 74,
+    "n": 24,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 2855,
+    "def": 61,
+    "mdef": 38
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.55,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.77,
+  "size": "Medium",
+  "sizeShare": 0.67,
+  "def": 53,
+  "mdef": 33,
+  "hp": 6869,
+  "lv": 70,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "alde_dun03, alde_dun04": {
+  "maps": [
+   "alde_dun03",
+   "alde_dun04"
+  ],
+  "perMap": 139,
+  "mobs": [
+   {
+    "name": "Penomena",
+    "lv": 100,
+    "n": 85,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Fish",
+    "size": "Medium",
+    "hp": 50000,
+    "def": 160,
+    "mdef": 99
+   },
+   {
+    "name": "Bathory",
+    "lv": 86,
+    "n": 57,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 5242,
+    "def": 61,
+    "mdef": 41
+   },
+   {
+    "name": "Cramp",
+    "lv": 82,
+    "n": 56,
+    "ele": "Poison",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 3935,
+    "def": 88,
+    "mdef": 42
+   },
+   {
+    "name": "Drainliar",
+    "lv": 160,
+    "n": 55,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 184779,
+    "def": 50,
+    "mdef": 15
+   }
+  ],
+  "ele": "Poison",
+  "eleShare": 0.56,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.44,
+  "size": "Medium",
+  "sizeShare": 0.56,
+  "def": 98,
+  "mdef": 55,
+  "hp": 59020,
+  "lv": 106,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 150
+   },
+   {
+    "ele": "Earth",
+    "mult": 150
+   },
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Wind",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Poison",
+    "mult": 0
+   }
+  ]
+ },
+ "dew_dun01, dew_dun02": {
+  "maps": [
+   "dew_dun01",
+   "dew_dun02"
+  ],
+  "perMap": 107,
+  "mobs": [
+   {
+    "name": "Comodo",
+    "lv": 81,
+    "n": 100,
+    "ele": "Poison",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 4291,
+    "def": 92,
+    "mdef": 11
+   },
+   {
+    "name": "Banaspaty",
+    "lv": 85,
+    "n": 70,
+    "ele": "Fire",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 3235,
+    "def": 63,
+    "mdef": 89
+   },
+   {
+    "name": "Butoijo",
+    "lv": 88,
+    "n": 40,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 5381,
+    "def": 77,
+    "mdef": 12
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.52,
+  "eleLv": 3,
+  "race": "Brute",
+  "raceShare": 0.48,
+  "size": "Medium",
+  "sizeShare": 0.48,
+  "def": 79,
+  "mdef": 37,
+  "hp": 4147,
+  "lv": 84,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "ein_dun01": {
+  "maps": [
+   "ein_dun01"
+  ],
+  "perMap": 144,
+  "mobs": [
+   {
+    "name": "Pitman",
+    "lv": 90,
+    "n": 70,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 6717,
+    "def": 104,
+    "mdef": 48
+   },
+   {
+    "name": "Noxious",
+    "lv": 87,
+    "n": 30,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 4462,
+    "def": 117,
+    "mdef": 66
+   },
+   {
+    "name": "Porcellio",
+    "lv": 85,
+    "n": 30,
+    "ele": "Earth",
+    "eleLv": 3,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 4621,
+    "def": 79,
+    "mdef": 37
+   },
+   {
+    "name": "Venomous",
+    "lv": 87,
+    "n": 10,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 5577,
+    "def": 104,
+    "mdef": 65
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.71,
+  "eleLv": 2,
+  "race": "Undead",
+  "raceShare": 0.5,
+  "size": "Large",
+  "sizeShare": 0.5,
+  "def": 101,
+  "mdef": 51,
+  "hp": 5703,
+  "lv": 88,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "ein_dun02": {
+  "maps": [
+   "ein_dun02"
+  ],
+  "perMap": 152,
+  "mobs": [
+   {
+    "name": "Mineral",
+    "lv": 96,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 8300,
+    "def": 127,
+    "mdef": 23
+   },
+   {
+    "name": "Obsidian",
+    "lv": 97,
+    "n": 40,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 8492,
+    "def": 129,
+    "mdef": 37
+   },
+   {
+    "name": "Old Stove",
+    "lv": 92,
+    "n": 30,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 7780,
+    "def": 100,
+    "mdef": 47
+   },
+   {
+    "name": "Teddy Bear",
+    "lv": 85,
+    "n": 30,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 14493,
+    "def": 100,
+    "mdef": 70
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.73,
+  "eleLv": 2,
+  "race": "Formless",
+  "raceShare": 1,
+  "size": "Small",
+  "sizeShare": 0.8,
+  "def": 117,
+  "mdef": 41,
+  "hp": 9486,
+  "lv": 93,
+  "weak": [],
+  "resist": []
+ },
+ "tur_dun03, tur_dun04": {
+  "maps": [
+   "tur_dun03",
+   "tur_dun04"
+  ],
+  "perMap": 98,
+  "mobs": [
+   {
+    "name": "Assaulter",
+    "lv": 98,
+    "n": 77,
+    "ele": "Wind",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 7798,
+    "def": 83,
+    "mdef": 49
+   },
+   {
+    "name": "Freezer",
+    "lv": 94,
+    "n": 55,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 9990,
+    "def": 68,
+    "mdef": 38
+   },
+   {
+    "name": "Heater",
+    "lv": 96,
+    "n": 43,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 7480,
+    "def": 186,
+    "mdef": 42
+   },
+   {
+    "name": "Permeter",
+    "lv": 90,
+    "n": 19,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 5841,
+    "def": 144,
+    "mdef": 50
+   }
+  ],
+  "ele": "Wind",
+  "eleShare": 0.4,
+  "eleLv": 2,
+  "race": "Brute",
+  "raceShare": 0.6,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 108,
+  "mdef": 44,
+  "hp": 8157,
+  "lv": 96,
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Wind",
+    "mult": 0
+   }
+  ]
+ },
+ "gef_dun02": {
+  "maps": [
+   "gef_dun02"
+  ],
+  "perMap": 151,
+  "mobs": [
+   {
+    "name": "Deviruchi",
+    "lv": 46,
+    "n": 45,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 500,
+    "def": 10,
+    "mdef": 25
+   },
+   {
+    "name": "Marionette",
+    "lv": 62,
+    "n": 30,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 2209,
+    "def": 71,
+    "mdef": 35
+   },
+   {
+    "name": "Whisper",
+    "lv": 1,
+    "n": 20,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 1000,
+    "def": 1,
+    "mdef": 1
+   },
+   {
+    "name": "Nightmare",
+    "lv": 160,
+    "n": 20,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 199129,
+    "def": 116,
+    "mdef": 15
+   }
+  ],
+  "ele": "Ghost",
+  "eleShare": 0.48,
+  "eleLv": 3,
+  "race": "Demon",
+  "raceShare": 0.78,
+  "size": "Small",
+  "sizeShare": 0.8,
+  "def": 39,
+  "mdef": 17,
+  "hp": 41481,
+  "lv": 60,
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 175
+   },
+   {
+    "ele": "Undead",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Neutral",
+    "mult": 50
+   },
+   {
+    "ele": "Poison",
+    "mult": 50
+   }
+  ]
+ },
+ "gl_prison, gl_prison1": {
+  "maps": [
+   "gl_prison",
+   "gl_prison1"
+  ],
+  "perMap": 102,
+  "mobs": [
+   {
+    "name": "Injustice",
+    "lv": 95,
+    "n": 65,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 8087,
+    "def": 76,
+    "mdef": 0
+   },
+   {
+    "name": "Zombie Prisoner",
+    "lv": 89,
+    "n": 38,
+    "ele": "Undead",
+    "eleLv": 3,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 6902,
+    "def": 89,
+    "mdef": 28
+   },
+   {
+    "name": "Skeleton Prisoner",
+    "lv": 91,
+    "n": 30,
+    "ele": "Undead",
+    "eleLv": 3,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 8378,
+    "def": 95,
+    "mdef": 41
+   },
+   {
+    "name": "Rybio",
+    "lv": 98,
+    "n": 29,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 9939,
+    "def": 109,
+    "mdef": 30
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.37,
+  "eleLv": 3,
+  "race": "Undead",
+  "raceShare": 0.72,
+  "size": "Medium",
+  "sizeShare": 0.72,
+  "def": 78,
+  "mdef": 17,
+  "hp": 7215,
+  "lv": 82,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Holy",
+    "mult": 175
+   },
+   {
+    "ele": "Ghost",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   },
+   {
+    "ele": "Poison",
+    "mult": 25
+   }
+  ]
+ },
+ "mag_dun01": {
+  "maps": [
+   "mag_dun01"
+  ],
+  "perMap": 101,
+  "mobs": [
+   {
+    "name": "Explosion",
+    "lv": 100,
+    "n": 30,
+    "ele": "Fire",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Small",
+    "hp": 6464,
+    "def": 112,
+    "mdef": 50
+   },
+   {
+    "name": "Lava Golem",
+    "lv": 103,
+    "n": 20,
+    "ele": "Fire",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 10244,
+    "def": 299,
+    "mdef": 27
+   },
+   {
+    "name": "Blazer",
+    "lv": 101,
+    "n": 20,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 9503,
+    "def": 116,
+    "mdef": 60
+   },
+   {
+    "name": "Kaho",
+    "lv": 98,
+    "n": 20,
+    "ele": "Fire",
+    "eleLv": 4,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 7229,
+    "def": 106,
+    "mdef": 55
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 1,
+  "eleLv": 3,
+  "race": "Brute",
+  "raceShare": 0.4,
+  "size": "Medium",
+  "sizeShare": 0.4,
+  "def": 149,
+  "mdef": 44,
+  "hp": 7553,
+  "lv": 97,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "ice_dun01, ice_dun02, ice_dun03": {
+  "maps": [
+   "ice_dun01",
+   "ice_dun02",
+   "ice_dun03"
+  ],
+  "perMap": 131,
+  "mobs": [
+   {
+    "name": "Siroma",
+    "lv": 98,
+    "n": 106,
+    "ele": "Water",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 9940,
+    "def": 64,
+    "mdef": 38
+   },
+   {
+    "name": "Snowier",
+    "lv": 103,
+    "n": 85,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 14227,
+    "def": 121,
+    "mdef": 47
+   },
+   {
+    "name": "Ice Titan",
+    "lv": 90,
+    "n": 77,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 105000,
+    "def": 50,
+    "mdef": 20
+   },
+   {
+    "name": "Gazeti",
+    "lv": 106,
+    "n": 59,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 15539,
+    "def": 71,
+    "mdef": 21
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 1,
+  "eleLv": 2,
+  "race": "Formless",
+  "raceShare": 0.84,
+  "size": "Large",
+  "sizeShare": 0.43,
+  "def": 67,
+  "mdef": 31,
+  "hp": 29937,
+  "lv": 99,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "mag_dun02": {
+  "maps": [
+   "mag_dun02"
+  ],
+  "perMap": 171,
+  "mobs": [
+   {
+    "name": "Deleter",
+    "lv": 105,
+    "n": 78,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Dragon",
+    "size": "Medium",
+    "hp": 9851,
+    "def": 114,
+    "mdef": 53
+   },
+   {
+    "name": "Nightmare Terror",
+    "lv": 107,
+    "n": 46,
+    "ele": "Dark",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 17079,
+    "def": 78,
+    "mdef": 37
+   },
+   {
+    "name": "Blazer",
+    "lv": 101,
+    "n": 20,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 9503,
+    "def": 116,
+    "mdef": 60
+   },
+   {
+    "name": "Diabolic",
+    "lv": 83,
+    "n": 15,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 9815,
+    "def": 60,
+    "mdef": 60
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.62,
+  "eleLv": 2,
+  "race": "Demon",
+  "raceShare": 0.51,
+  "size": "Medium",
+  "sizeShare": 0.62,
+  "def": 99,
+  "mdef": 50,
+  "hp": 11895,
+  "lv": 103,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "gl_sew03, gl_sew04": {
+  "maps": [
+   "gl_sew03",
+   "gl_sew04"
+  ],
+  "perMap": 161,
+  "mobs": [
+   {
+    "name": "Anolian",
+    "lv": 109,
+    "n": 126,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Fish",
+    "size": "Medium",
+    "hp": 16615,
+    "def": 61,
+    "mdef": 11
+   },
+   {
+    "name": "Sting",
+    "lv": 104,
+    "n": 99,
+    "ele": "Earth",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 12633,
+    "def": 146,
+    "mdef": 50
+   },
+   {
+    "name": "Gargoyle",
+    "lv": 100,
+    "n": 81,
+    "ele": "Wind",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 100000,
+    "def": 98,
+    "mdef": 43
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 0.41,
+  "eleLv": 2,
+  "race": "Fish",
+  "raceShare": 0.41,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 98,
+  "mdef": 32,
+  "hp": 37399,
+  "lv": 105,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "niflheim, nif_fild01, nif_fild02": {
+  "maps": [
+   "niflheim",
+   "nif_fild01",
+   "nif_fild02"
+  ],
+  "perMap": 110,
+  "mobs": [
+   {
+    "name": "Quve",
+    "lv": 100,
+    "n": 68,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Small",
+    "hp": 9233,
+    "def": 96,
+    "mdef": 55
+   },
+   {
+    "name": "Disguise",
+    "lv": 55,
+    "n": 56,
+    "ele": "Earth",
+    "eleLv": 4,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 7543,
+    "def": 18,
+    "mdef": 29
+   },
+   {
+    "name": "Gibbet",
+    "lv": 105,
+    "n": 48,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 12999,
+    "def": 116,
+    "mdef": 45
+   },
+   {
+    "name": "Lude",
+    "lv": 101,
+    "n": 45,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Small",
+    "hp": 11179,
+    "def": 90,
+    "mdef": 53
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.48,
+  "eleLv": 1,
+  "race": "Demon",
+  "raceShare": 0.52,
+  "size": "Small",
+  "sizeShare": 0.54,
+  "def": 84,
+  "mdef": 48,
+  "hp": 10986,
+  "lv": 93,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 125
+   },
+   {
+    "ele": "Holy",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "gl_dun01, gl_dun02": {
+  "maps": [
+   "gl_dun01",
+   "gl_dun02"
+  ],
+  "perMap": 84,
+  "mobs": [
+   {
+    "name": "Arclouze",
+    "lv": 77,
+    "n": 53,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 4320,
+    "def": 101,
+    "mdef": 36
+   },
+   {
+    "name": "Majoruros",
+    "lv": 107,
+    "n": 52,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Brute",
+    "size": "Large",
+    "hp": 13522,
+    "def": 111,
+    "mdef": 25
+   },
+   {
+    "name": "Sting",
+    "lv": 104,
+    "n": 43,
+    "ele": "Earth",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 12633,
+    "def": 146,
+    "mdef": 50
+   },
+   {
+    "name": "Gargoyle",
+    "lv": 100,
+    "n": 17,
+    "ele": "Wind",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 100000,
+    "def": 98,
+    "mdef": 43
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.58,
+  "eleLv": 2,
+  "race": "Insect",
+  "raceShare": 0.32,
+  "size": "Medium",
+  "sizeShare": 0.68,
+  "def": 116,
+  "mdef": 37,
+  "hp": 19244,
+  "lv": 96,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "ma_dun01, ma_fild01": {
+  "maps": [
+   "ma_dun01",
+   "ma_fild01"
+  ],
+  "perMap": 144,
+  "mobs": [
+   {
+    "name": "Tiyanak",
+    "lv": 105,
+    "n": 107,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 50211,
+    "def": 76,
+    "mdef": 21
+   },
+   {
+    "name": "Tikbalang",
+    "lv": 115,
+    "n": 67,
+    "ele": "Wind",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Large",
+    "hp": 20150,
+    "def": 84,
+    "mdef": 34
+   },
+   {
+    "name": "Manananggal",
+    "lv": 107,
+    "n": 40,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 204511,
+    "def": 64,
+    "mdef": 31
+   },
+   {
+    "name": "Jejeling",
+    "lv": 100,
+    "n": 40,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Large",
+    "hp": 10617,
+    "def": 100,
+    "mdef": 26
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.62,
+  "eleLv": 2,
+  "race": "Demon",
+  "raceShare": 0.62,
+  "size": "Small",
+  "sizeShare": 0.48,
+  "def": 74,
+  "mdef": 35,
+  "hp": 74552,
+  "lv": 111,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "kh_dun01, kh_dun02": {
+  "maps": [
+   "kh_dun01",
+   "kh_dun02"
+  ],
+  "perMap": 111,
+  "mobs": [
+   {
+    "name": "Aliza",
+    "lv": 112,
+    "n": 68,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 17980,
+    "def": 98,
+    "mdef": 5
+   },
+   {
+    "name": "Alicel",
+    "lv": 115,
+    "n": 44,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 18319,
+    "def": 109,
+    "mdef": 30
+   },
+   {
+    "name": "Constant",
+    "lv": 108,
+    "n": 41,
+    "ele": "Dark",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 11000,
+    "def": 92,
+    "mdef": 82
+   },
+   {
+    "name": "Aliot",
+    "lv": 112,
+    "n": 37,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 17980,
+    "def": 106,
+    "mdef": 15
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.81,
+  "eleLv": 3,
+  "race": "Demihuman",
+  "raceShare": 0.45,
+  "size": "Medium",
+  "sizeShare": 0.81,
+  "def": 88,
+  "mdef": 26,
+  "hp": 15659,
+  "lv": 105,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "juperos_01": {
+  "maps": [
+   "juperos_01"
+  ],
+  "perMap": 288,
+  "mobs": [
+   {
+    "name": "Venatu",
+    "lv": 113,
+    "n": 260,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 20805,
+    "def": 74,
+    "mdef": 15
+   },
+   {
+    "name": "Dimik",
+    "lv": 116,
+    "n": 25,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 19250,
+    "def": 98,
+    "mdef": 28
+   }
+  ],
+  "ele": "Water",
+  "eleShare": 0.91,
+  "eleLv": 2,
+  "race": "Formless",
+  "raceShare": 1,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 76,
+  "mdef": 16,
+  "hp": 20669,
+  "lv": 113,
+  "weak": [
+   {
+    "ele": "Wind",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Water",
+    "mult": 0
+   }
+  ]
+ },
+ "jupe_core": {
+  "maps": [
+   "jupe_core"
+  ],
+  "perMap": 278,
+  "mobs": [
+   {
+    "name": "Dimik",
+    "lv": 116,
+    "n": 160,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 19250,
+    "def": 98,
+    "mdef": 28
+   },
+   {
+    "name": "Venatu",
+    "lv": 113,
+    "n": 75,
+    "ele": "Water",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 20805,
+    "def": 74,
+    "mdef": 15
+   },
+   {
+    "name": "Archdam",
+    "lv": 119,
+    "n": 40,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Angel",
+    "size": "Large",
+    "hp": 25297,
+    "def": 98,
+    "mdef": 15
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.58,
+  "eleLv": 2,
+  "race": "Formless",
+  "raceShare": 0.85,
+  "size": "Medium",
+  "sizeShare": 0.85,
+  "def": 91,
+  "mdef": 23,
+  "hp": 20554,
+  "lv": 116,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "nyd_dun01": {
+  "maps": [
+   "nyd_dun01"
+  ],
+  "perMap": 86,
+  "mobs": [
+   {
+    "name": "Draco",
+    "lv": 114,
+    "n": 40,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Dragon",
+    "size": "Medium",
+    "hp": 18205,
+    "def": 56,
+    "mdef": 3
+   },
+   {
+    "name": "Aqua Elemental",
+    "lv": 99,
+    "n": 20,
+    "ele": "Water",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 33220,
+    "def": 13,
+    "mdef": 12
+   },
+   {
+    "name": "Dark Pinguicula",
+    "lv": 99,
+    "n": 10,
+    "ele": "Poison",
+    "eleLv": 2,
+    "race": "Plant",
+    "size": "Medium",
+    "hp": 8780,
+    "def": 24,
+    "mdef": 5
+   },
+   {
+    "name": "Draco Egg",
+    "lv": 101,
+    "n": 10,
+    "ele": "Earth",
+    "eleLv": 4,
+    "race": "Dragon",
+    "size": "Medium",
+    "hp": 100000,
+    "def": 384,
+    "mdef": 30
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.63,
+  "eleLv": 2,
+  "race": "Dragon",
+  "raceShare": 0.63,
+  "size": "Medium",
+  "sizeShare": 0.75,
+  "def": 82,
+  "mdef": 9,
+  "hp": 31005,
+  "lv": 107,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "gefenia01 - gefenia04": {
+  "maps": [
+   "gefenia01",
+   "gefenia02",
+   "gefenia03",
+   "gefenia04"
+  ],
+  "perMap": 144,
+  "mobs": [
+   {
+    "name": "False Angel",
+    "lv": 105,
+    "n": 165,
+    "ele": "Holy",
+    "eleLv": 3,
+    "race": "Angel",
+    "size": "Small",
+    "hp": 10431,
+    "def": 106,
+    "mdef": 84
+   },
+   {
+    "name": "Violy",
+    "lv": 118,
+    "n": 143,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 22880,
+    "def": 74,
+    "mdef": 36
+   },
+   {
+    "name": "Mini Demon",
+    "lv": 117,
+    "n": 102,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 22763,
+    "def": 80,
+    "mdef": 25
+   },
+   {
+    "name": "Incubus",
+    "lv": 120,
+    "n": 51,
+    "ele": "Dark",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 25428,
+    "def": 72,
+    "mdef": 46
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.44,
+  "eleLv": 2,
+  "race": "Demon",
+  "raceShare": 0.37,
+  "size": "Small",
+  "sizeShare": 0.48,
+  "def": 87,
+  "mdef": 51,
+  "hp": 20443,
+  "lv": 114,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "gl_knt01, gl_knt02, gl_cas02": {
+  "maps": [
+   "gl_knt01",
+   "gl_knt02",
+   "gl_cas02"
+  ],
+  "perMap": 191,
+  "mobs": [
+   {
+    "name": "Raydric",
+    "lv": 115,
+    "n": 263,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Large",
+    "hp": 21981,
+    "def": 89,
+    "mdef": 15
+   },
+   {
+    "name": "Raydric Archer",
+    "lv": 82,
+    "n": 72,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 4809,
+    "def": 63,
+    "mdef": 40
+   },
+   {
+    "name": "Khalitzburg",
+    "lv": 118,
+    "n": 70,
+    "ele": "Undead",
+    "eleLv": 1,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 27456,
+    "def": 125,
+    "mdef": 10
+   },
+   {
+    "name": "Rideword",
+    "lv": 74,
+    "n": 58,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 2855,
+    "def": 61,
+    "mdef": 38
+   }
+  ],
+  "ele": "Dark",
+  "eleShare": 0.66,
+  "eleLv": 2,
+  "race": "Demihuman",
+  "raceShare": 0.52,
+  "size": "Large",
+  "sizeShare": 0.66,
+  "def": 85,
+  "mdef": 21,
+  "hp": 17000,
+  "lv": 103,
+  "weak": [
+   {
+    "ele": "Holy",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   }
+  ]
+ },
+ "tha_t02 ... tha_t06": {
+  "maps": [
+   "tha_t02",
+   "tha_t03",
+   "tha_t04",
+   "tha_t05",
+   "tha_t06"
+  ],
+  "perMap": 191,
+  "mobs": [
+   {
+    "name": "Ancient Mimic",
+    "lv": 112,
+    "n": 190,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 19778,
+    "def": 100,
+    "mdef": 40
+   },
+   {
+    "name": "Death Word",
+    "lv": 114,
+    "n": 190,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 18205,
+    "def": 68,
+    "mdef": 40
+   },
+   {
+    "name": "Plasma",
+    "lv": 116,
+    "n": 140,
+    "ele": "Earth",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 24975,
+    "def": 120,
+    "mdef": 3
+   },
+   {
+    "name": "Owl Duke",
+    "lv": 92,
+    "n": 130,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 7780,
+    "def": 80,
+    "mdef": 45
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.85,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.7,
+  "size": "Large",
+  "sizeShare": 0.51,
+  "def": 82,
+  "mdef": 34,
+  "hp": 15941,
+  "lv": 103,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "ra_san01 ... ra_san05": {
+  "maps": [
+   "ra_san01",
+   "ra_san02",
+   "ra_san03",
+   "ra_san04",
+   "ra_san05"
+  ],
+  "perMap": 150,
+  "mobs": [
+   {
+    "name": "Isilla",
+    "lv": 124,
+    "n": 156,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 29151,
+    "def": 69,
+    "mdef": 19
+   },
+   {
+    "name": "Hodremlin",
+    "lv": 122,
+    "n": 126,
+    "ele": "Dark",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 31796,
+    "def": 75,
+    "mdef": 25
+   },
+   {
+    "name": "Vanberk",
+    "lv": 123,
+    "n": 120,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 29028,
+    "def": 100,
+    "mdef": 6
+   },
+   {
+    "name": "Agav",
+    "lv": 128,
+    "n": 104,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 36971,
+    "def": 77,
+    "mdef": 82
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.69,
+  "eleLv": 4,
+  "race": "Demihuman",
+  "raceShare": 0.69,
+  "size": "Medium",
+  "sizeShare": 0.87,
+  "def": 76,
+  "mdef": 28,
+  "hp": 31434,
+  "lv": 124,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 0
+   }
+  ]
+ },
+ "abbey01, abbey02, abbey03": {
+  "maps": [
+   "abbey01",
+   "abbey02",
+   "abbey03"
+  ],
+  "perMap": 231,
+  "mobs": [
+   {
+    "name": "Zombie Slaughter",
+    "lv": 124,
+    "n": 240,
+    "ele": "Undead",
+    "eleLv": 3,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 34981,
+    "def": 100,
+    "mdef": 45
+   },
+   {
+    "name": "Banshee",
+    "lv": 130,
+    "n": 126,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 40950,
+    "def": 73,
+    "mdef": 96
+   },
+   {
+    "name": "Ragged Zombie",
+    "lv": 123,
+    "n": 104,
+    "ele": "Undead",
+    "eleLv": 3,
+    "race": "Undead",
+    "size": "Medium",
+    "hp": 34833,
+    "def": 85,
+    "mdef": 35
+   },
+   {
+    "name": "Flame Skull",
+    "lv": 121,
+    "n": 67,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 20150,
+    "def": 93,
+    "mdef": 40
+   }
+  ],
+  "ele": "Undead",
+  "eleShare": 0.71,
+  "eleLv": 3,
+  "race": "Undead",
+  "raceShare": 0.71,
+  "size": "Medium",
+  "sizeShare": 0.9,
+  "def": 88,
+  "mdef": 52,
+  "hp": 54586,
+  "lv": 129,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Holy",
+    "mult": 175
+   },
+   {
+    "ele": "Ghost",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Dark",
+    "mult": 0
+   },
+   {
+    "ele": "Undead",
+    "mult": 0
+   },
+   {
+    "ele": "Poison",
+    "mult": 25
+   }
+  ]
+ },
+ "abyss_01 ... abyss_03": {
+  "maps": [
+   "abyss_01",
+   "abyss_02",
+   "abyss_03"
+  ],
+  "perMap": 149,
+  "mobs": [
+   {
+    "name": "Ferus",
+    "lv": 126,
+    "n": 155,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Dragon",
+    "size": "Large",
+    "hp": 42224,
+    "def": 111,
+    "mdef": 33
+   },
+   {
+    "name": "Acidus",
+    "lv": 130,
+    "n": 140,
+    "ele": "Wind",
+    "eleLv": 2,
+    "race": "Dragon",
+    "size": "Large",
+    "hp": 40718,
+    "def": 98,
+    "mdef": 47
+   },
+   {
+    "name": "Penomena",
+    "lv": 100,
+    "n": 30,
+    "ele": "Poison",
+    "eleLv": 1,
+    "race": "Fish",
+    "size": "Medium",
+    "hp": 50000,
+    "def": 160,
+    "mdef": 99
+   },
+   {
+    "name": "Mimic",
+    "lv": 51,
+    "n": 30,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 6120,
+    "def": 10,
+    "mdef": 40
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.35,
+  "eleLv": 2,
+  "race": "Dragon",
+  "raceShare": 0.8,
+  "size": "Large",
+  "sizeShare": 0.74,
+  "def": 99,
+  "mdef": 44,
+  "hp": 34698,
+  "lv": 111,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "thor_v01, thor_v02": {
+  "maps": [
+   "thor_v01",
+   "thor_v02"
+  ],
+  "perMap": 103,
+  "mobs": [
+   {
+    "name": "Knocker",
+    "lv": 126,
+    "n": 55,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 33047,
+    "def": 126,
+    "mdef": 62
+   },
+   {
+    "name": "Kasa",
+    "lv": 83,
+    "n": 49,
+    "ele": "Fire",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 9815,
+    "def": 60,
+    "mdef": 60
+   },
+   {
+    "name": "Imp",
+    "lv": 129,
+    "n": 37,
+    "ele": "Fire",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Small",
+    "hp": 25971,
+    "def": 56,
+    "mdef": 75
+   },
+   {
+    "name": "Magmaring",
+    "lv": 110,
+    "n": 21,
+    "ele": "Fire",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 10919,
+    "def": 190,
+    "mdef": 45
+   }
+  ],
+  "ele": "Fire",
+  "eleShare": 0.66,
+  "eleLv": 3,
+  "race": "Demon",
+  "raceShare": 0.57,
+  "size": "Small",
+  "sizeShare": 0.7,
+  "def": 98,
+  "mdef": 62,
+  "hp": 21535,
+  "lv": 112,
+  "weak": [
+   {
+    "ele": "Water",
+    "mult": 200
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Fire",
+    "mult": 0
+   }
+  ]
+ },
+ "man_fild02, man_fild03, dic_dun01": {
+  "maps": [
+   "man_fild02",
+   "man_fild03",
+   "dic_dun01"
+  ],
+  "perMap": 131,
+  "mobs": [
+   {
+    "name": "Centipede",
+    "lv": 125,
+    "n": 85,
+    "ele": "Poison",
+    "eleLv": 2,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 29275,
+    "def": 143,
+    "mdef": 25
+   },
+   {
+    "name": "Bradium Golem",
+    "lv": 99,
+    "n": 75,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 45200,
+    "def": 125,
+    "mdef": 18
+   },
+   {
+    "name": "Tatacho",
+    "lv": 128,
+    "n": 70,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 36971,
+    "def": 151,
+    "mdef": 14
+   },
+   {
+    "name": "One-Horned Scaraba",
+    "lv": 130,
+    "n": 50,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 51100,
+    "def": 135,
+    "mdef": 20
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.7,
+  "eleLv": 1,
+  "race": "Insect",
+  "raceShare": 0.54,
+  "size": "Small",
+  "sizeShare": 0.41,
+  "def": 144,
+  "mdef": 25,
+  "hp": 42562,
+  "lv": 122,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "lhz_dun02": {
+  "maps": [
+   "lhz_dun02"
+  ],
+  "perMap": 281,
+  "mobs": [
+   {
+    "name": "Kavach Icarus",
+    "lv": 0,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Errende Ebecee",
+    "lv": 0,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Laurell Weinder",
+    "lv": 0,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   },
+   {
+    "name": "Wickebine Tres",
+    "lv": 0,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 0,
+    "def": 0,
+    "mdef": 0
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.93,
+  "eleLv": 1,
+  "race": "Formless",
+  "raceShare": 0.93,
+  "size": "Small",
+  "sizeShare": 0.93,
+  "def": 8,
+  "mdef": 3,
+  "hp": 2452,
+  "lv": 9,
+  "weak": [],
+  "resist": []
+ },
+ "dic_dun02": {
+  "maps": [
+   "dic_dun02"
+  ],
+  "perMap": 127,
+  "mobs": [
+   {
+    "name": "Antler Scaraba",
+    "lv": 136,
+    "n": 50,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 30000,
+    "def": 155,
+    "mdef": 102
+   },
+   {
+    "name": "Rake Scaraba",
+    "lv": 139,
+    "n": 45,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Insect",
+    "size": "Medium",
+    "hp": 67700,
+    "def": 250,
+    "mdef": 70
+   },
+   {
+    "name": "Antler Scaraba Egg",
+    "lv": 127,
+    "n": 15,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 69000,
+    "def": 235,
+    "mdef": 180
+   },
+   {
+    "name": "Rake Scaraba Egg",
+    "lv": 128,
+    "n": 15,
+    "ele": "Neutral",
+    "eleLv": 1,
+    "race": "Insect",
+    "size": "Small",
+    "hp": 72000,
+    "def": 290,
+    "mdef": 44
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.76,
+  "eleLv": 2,
+  "race": "Insect",
+  "raceShare": 1,
+  "size": "Medium",
+  "sizeShare": 0.76,
+  "def": 215,
+  "mdef": 93,
+  "hp": 53292,
+  "lv": 135,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 0
+   }
+  ]
+ },
+ "lhz_dun03, lhz_dun04": {
+  "maps": [
+   "lhz_dun03",
+   "lhz_dun04"
+  ],
+  "perMap": 330,
+  "mobs": [
+   {
+    "name": "Cecil Damon",
+    "lv": 82,
+    "n": 81,
+    "ele": "Wind",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 30000,
+    "def": 40,
+    "mdef": 15
+   },
+   {
+    "name": "Celia",
+    "lv": 141,
+    "n": 81,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 253145,
+    "def": 74,
+    "mdef": 312
+   },
+   {
+    "name": "Kathryne Keyron",
+    "lv": 92,
+    "n": 57,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 47780,
+    "def": 10,
+    "mdef": 74
+   },
+   {
+    "name": "Gertie",
+    "lv": 141,
+    "n": 57,
+    "ele": "Poison",
+    "eleLv": 4,
+    "race": "Demon",
+    "size": "Medium",
+    "hp": 266926,
+    "def": 108,
+    "mdef": 10
+   }
+  ],
+  "ele": "Wind",
+  "eleShare": 0.25,
+  "eleLv": 3,
+  "race": "Demihuman",
+  "raceShare": 0.72,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 114,
+  "mdef": 103,
+  "hp": 631848,
+  "lv": 136,
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 200
+   },
+   {
+    "ele": "Poison",
+    "mult": 125
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Wind",
+    "mult": 0
+   }
+  ]
+ },
+ "ecl_tdun01 ... ecl_tdun03": {
+  "maps": [
+   "ecl_tdun01",
+   "ecl_tdun02",
+   "ecl_tdun03"
+  ],
+  "perMap": 25,
+  "mobs": [
+   {
+    "name": "Antique Book",
+    "lv": 148,
+    "n": 40,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 134615,
+    "def": 74,
+    "mdef": 42
+   },
+   {
+    "name": "Cenere",
+    "lv": 146,
+    "n": 30,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 130131,
+    "def": 87,
+    "mdef": 81
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.57,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.57,
+  "size": "Small",
+  "sizeShare": 1,
+  "def": 80,
+  "mdef": 59,
+  "hp": 132693,
+  "lv": 147,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "prt_prison": {
+  "maps": [
+   "prt_prison"
+  ],
+  "perMap": 100,
+  "mobs": [
+   {
+    "name": "Taffy",
+    "lv": 145,
+    "n": 50,
+    "ele": "Earth",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 100000,
+    "def": 125,
+    "mdef": 47
+   },
+   {
+    "name": "Watcher",
+    "lv": 145,
+    "n": 30,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 120000,
+    "def": 125,
+    "mdef": 47
+   },
+   {
+    "name": "Frozen Wolf",
+    "lv": 140,
+    "n": 20,
+    "ele": "Water",
+    "eleLv": 1,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 80000,
+    "def": 50,
+    "mdef": 50
+   }
+  ],
+  "ele": "Earth",
+  "eleShare": 0.5,
+  "eleLv": 1,
+  "race": "Brute",
+  "raceShare": 0.7,
+  "size": "Medium",
+  "sizeShare": 0.7,
+  "def": 110,
+  "mdef": 48,
+  "hp": 102000,
+  "lv": 144,
+  "weak": [
+   {
+    "ele": "Fire",
+    "mult": 150
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Earth",
+    "mult": 25
+   }
+  ]
+ },
+ "c_tower2_, c_tower3_": {
+  "maps": [
+   "c_tower2_",
+   "c_tower3_"
+  ],
+  "perMap": 122,
+  "mobs": [
+   {
+    "name": "Big Bell",
+    "lv": 163,
+    "n": 109,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 166860,
+    "def": 138,
+    "mdef": 53
+   },
+   {
+    "name": "Neo Punk",
+    "lv": 155,
+    "n": 55,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 154760,
+    "def": 99,
+    "mdef": 55
+   },
+   {
+    "name": "Big Ben",
+    "lv": 160,
+    "n": 55,
+    "ele": "Earth",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 222240,
+    "def": 125,
+    "mdef": 43
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.5,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.75,
+  "size": "Medium",
+  "sizeShare": 0.75,
+  "def": 125,
+  "mdef": 51,
+  "hp": 177729,
+  "lv": 160,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "gl_chyard_, gl_cas02_": {
+  "maps": [
+   "gl_chyard_",
+   "gl_cas02_"
+  ],
+  "perMap": 44,
+  "mobs": [
+   {
+    "name": "Mimic (Nightmare)",
+    "lv": 137,
+    "n": 53,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 63101,
+    "def": 210,
+    "mdef": 40
+   },
+   {
+    "name": "Wraith Dead",
+    "lv": 86,
+    "n": 31,
+    "ele": "Undead",
+    "eleLv": 4,
+    "race": "Undead",
+    "size": "Large",
+    "hp": 10035,
+    "def": 88,
+    "mdef": 56
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.63,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.63,
+  "size": "Medium",
+  "sizeShare": 0.63,
+  "def": 165,
+  "mdef": 46,
+  "hp": 43517,
+  "lv": 118,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "verus01, verus02, ver_eju": {
+  "maps": [
+   "verus01",
+   "verus02",
+   "ver_eju"
+  ],
+  "perMap": 87,
+  "mobs": [
+   {
+    "name": "Explorer Robot Turbo",
+    "lv": 171,
+    "n": 75,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 318117,
+    "def": 121,
+    "mdef": 67
+   },
+   {
+    "name": "Repair Robot Turbo",
+    "lv": 158,
+    "n": 75,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 186320,
+    "def": 118,
+    "mdef": 59
+   },
+   {
+    "name": "Green Cenere",
+    "lv": 150,
+    "n": 50,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 140088,
+    "def": 91,
+    "mdef": 81
+   },
+   {
+    "name": "Recon Robot",
+    "lv": 165,
+    "n": 50,
+    "ele": "Neutral",
+    "eleLv": 4,
+    "race": "Formless",
+    "size": "Large",
+    "hp": 256000,
+    "def": 127,
+    "mdef": 60
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.8,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 1,
+  "size": "Large",
+  "sizeShare": 0.5,
+  "def": 115,
+  "mdef": 66,
+  "hp": 230549,
+  "lv": 162,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "un_bunker": {
+  "maps": [
+   "un_bunker"
+  ],
+  "perMap": 185,
+  "mobs": [
+   {
+    "name": "Smelly Zombie",
+    "lv": 148,
+    "n": 80,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Small",
+    "hp": 134615,
+    "def": 91,
+    "mdef": 42
+   },
+   {
+    "name": "Smelly Ghoul",
+    "lv": 155,
+    "n": 68,
+    "ele": "Wind",
+    "eleLv": 1,
+    "race": "Plant",
+    "size": "Small",
+    "hp": 178652,
+    "def": 99,
+    "mdef": 55
+   },
+   {
+    "name": "Machine Component",
+    "lv": 153,
+    "n": 28,
+    "ele": "Dark",
+    "eleLv": 1,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 245670,
+    "def": 143,
+    "mdef": 45
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.45,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.61,
+  "size": "Small",
+  "sizeShare": 0.84,
+  "def": 102,
+  "mdef": 48,
+  "hp": 169297,
+  "lv": 152,
+  "weak": [],
+  "resist": [
+   {
+    "ele": "Ghost",
+    "mult": 50
+   }
+  ]
+ },
+ "sp_rudus2, sp_rudus3": {
+  "maps": [
+   "sp_rudus2",
+   "sp_rudus3"
+  ],
+  "perMap": 212,
+  "mobs": [
+   {
+    "name": "Mutant Dolor",
+    "lv": 173,
+    "n": 105,
+    "ele": "Poison",
+    "eleLv": 3,
+    "race": "Brute",
+    "size": "Medium",
+    "hp": 742501,
+    "def": 305,
+    "mdef": 68
+   },
+   {
+    "name": "Mutant Venenum",
+    "lv": 176,
+    "n": 65,
+    "ele": "Neutral",
+    "eleLv": 3,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 755670,
+    "def": 314,
+    "mdef": 69
+   },
+   {
+    "name": "Mutant Twin Caput",
+    "lv": 175,
+    "n": 65,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 750501,
+    "def": 290,
+    "mdef": 68
+   },
+   {
+    "name": "Plaga",
+    "lv": 164,
+    "n": 58,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Dragon",
+    "size": "Medium",
+    "hp": 466948,
+    "def": 160,
+    "mdef": 38
+   }
+  ],
+  "ele": "Neutral",
+  "eleShare": 0.51,
+  "eleLv": 2,
+  "race": "Demihuman",
+  "raceShare": 0.4,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 266,
+  "mdef": 59,
+  "hp": 662019,
+  "lv": 172,
+  "weak": [],
+  "resist": []
+ },
+ "ba_2whs01, ba_2whs02": {
+  "maps": [
+   "ba_2whs01",
+   "ba_2whs02"
+  ],
+  "perMap": 130,
+  "mobs": [
+   {
+    "name": "Broken Beta Guards",
+    "lv": 186,
+    "n": 110,
+    "ele": "Wind",
+    "eleLv": 2,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 1909523,
+    "def": 522,
+    "mdef": 110
+   },
+   {
+    "name": "Broken Warehouse Manager",
+    "lv": 185,
+    "n": 80,
+    "ele": "Neutral",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 1900983,
+    "def": 563,
+    "mdef": 110
+   },
+   {
+    "name": "Heart Hunter Skirmisher",
+    "lv": 176,
+    "n": 70,
+    "ele": "Dark",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 1208485,
+    "def": 500,
+    "mdef": 102
+   }
+  ],
+  "ele": "Wind",
+  "eleShare": 0.42,
+  "eleLv": 2,
+  "race": "Demihuman",
+  "raceShare": 0.58,
+  "size": "Medium",
+  "sizeShare": 1,
+  "def": 529,
+  "mdef": 108,
+  "hp": 1718154,
+  "lv": 183,
+  "weak": [
+   {
+    "ele": "Earth",
+    "mult": 175
+   },
+   {
+    "ele": "Poison",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Wind",
+    "mult": 0
+   }
+  ]
+ },
+ "ba_pw03": {
+  "maps": [
+   "ba_pw03"
+  ],
+  "perMap": 300,
+  "mobs": [
+   {
+    "name": "Spell Addicted Plaga",
+    "lv": 192,
+    "n": 80,
+    "ele": "Poison",
+    "eleLv": 3,
+    "race": "Demon",
+    "size": "Large",
+    "hp": 2946697,
+    "def": 462,
+    "mdef": 115
+   },
+   {
+    "name": "Spell Addicted Sanare",
+    "lv": 194,
+    "n": 80,
+    "ele": "Holy",
+    "eleLv": 2,
+    "race": "Demihuman",
+    "size": "Medium",
+    "hp": 2979073,
+    "def": 503,
+    "mdef": 122
+   },
+   {
+    "name": "Powerful Spell",
+    "lv": 193,
+    "n": 70,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 2961272,
+    "def": 445,
+    "mdef": 121
+   },
+   {
+    "name": "Sharp Spell",
+    "lv": 193,
+    "n": 70,
+    "ele": "Ghost",
+    "eleLv": 3,
+    "race": "Formless",
+    "size": "Medium",
+    "hp": 2960243,
+    "def": 421,
+    "mdef": 121
+   }
+  ],
+  "ele": "Ghost",
+  "eleShare": 0.47,
+  "eleLv": 3,
+  "race": "Formless",
+  "raceShare": 0.47,
+  "size": "Medium",
+  "sizeShare": 0.73,
+  "def": 459,
+  "mdef": 120,
+  "hp": 2961892,
+  "lv": 193,
+  "weak": [
+   {
+    "ele": "Ghost",
+    "mult": 175
+   },
+   {
+    "ele": "Undead",
+    "mult": 150
+   }
+  ],
+  "resist": [
+   {
+    "ele": "Neutral",
+    "mult": 50
+   },
+   {
+    "ele": "Poison",
+    "mult": 50
+   }
+  ]
+ }
+}
